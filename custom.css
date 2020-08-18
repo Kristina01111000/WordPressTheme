@@ -3,3 +3,11 @@
   Salmon:     #dd5638
   Blue Grey:  #3e4249
 */
+
+/*STYLE*/
+
+body{
+  font-family: 'proxima-nova','Raleway', Helvetica, sans-serif;
+	font-size: 16px;
+	background: url('../img/tile.jpg') top left repeat;
+}
