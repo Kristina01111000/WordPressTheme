@@ -12,10 +12,6 @@ body{
 	background: url('../img/tile.jpg') top left repeat;
 }
 
-hero{
-	margin-top:100px; /*Not working correctly*/
-}
-
 /* === GLOBAL === */
 h1,h2,h3,h4,h5,h6 {
 	-webkit-font-smoothing: antialiased;
@@ -47,4 +43,5 @@ h4{
 	color: white;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;	
+	margin-top: 50px;
 }
