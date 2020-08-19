@@ -88,3 +88,9 @@ h4{
 #price-timeline h4{
 	margin: 0 0 10px;
 }
+
+#price-timeline h4 small{
+	color: white;
+	font-weight: bold;
+	display: block;
+}
