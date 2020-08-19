@@ -38,6 +38,11 @@ h4{
 .btn{
 	font-weight: bold;
 }
+
+.btn-danger{
+	background-color: #DD5638;
+	border-color: #D95131;
+}
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
