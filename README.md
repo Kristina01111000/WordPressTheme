@@ -6,6 +6,7 @@ uses jquery and bootstrap
 
 To do: 
 add the different sections
+fix the navbar color issue
 
 Notes:
 Not putting downloaded code or pictures online
