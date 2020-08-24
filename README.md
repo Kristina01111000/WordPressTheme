@@ -5,8 +5,9 @@ uses jquery and bootstrap
  from the udemy class
 
 To do: 
-add the different sections
-fix the navbar color issue
+- code to the different sections
+- fix the navbar color issue
+- fix navbar button issue
 - figure out how to make parallax work
 
 Notes:
