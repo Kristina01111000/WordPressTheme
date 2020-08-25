@@ -5,9 +5,9 @@ uses jquery and bootstrap
  from the udemy class
 
 To do: 
-- add code to the different sections
- - OPT IN SECTION
- - BOOST INCOME
+- add html to the sections
+ 	- OPT IN SECTION
+ 	- BOOST INCOME
 	- WHO BENEFITS
 	- COURSE FEATURES
 	- PROJECT FEATURES
