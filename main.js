@@ -9,6 +9,12 @@ $(function() {
 		$(window).scroll(function() {
 			// scroll the background, y is negative b/c going up
 			var yPos = -($window.scrollTop()/ $bgobj.data('speed'));
+			
+			// make final background pos -> usable in css
+			var coords = '50% ' + yPos + 'px';
+			
+			// move background
+			$bgobj.css({backgroundPosition: coords});
 		});
 	});
 });
