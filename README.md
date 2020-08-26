@@ -20,7 +20,6 @@ To do:
 	- BOOTSTRAP CORE JAVASCRIPT
 - fix the navbar color issue
 - fix navbar button issue
-- figure out how to make parallax work
 
 Notes:
 Not putting downloaded code or pictures online
