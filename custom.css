@@ -124,3 +124,7 @@ img {
 	text-rendering: optimizelegibility;
 	font-size: 1.2em;
 }
+
+#optin p {
+	margin: 7px 0 0 0;
+}
