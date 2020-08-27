@@ -114,3 +114,13 @@ img {
 	font-weight: bold;
 	display: block;
 }
+
+/* === LAYOUT === */
+#optin {
+	background: #3E4249;
+	padding: 20px 0;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-size: 1.2em;
+}
