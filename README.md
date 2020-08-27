@@ -6,7 +6,6 @@ uses jquery and bootstrap
 
 To do: 
 - add html to the sections
- 	- OPT IN SECTION
  	- BOOST INCOME
 	- WHO BENEFITS
 	- COURSE FEATURES
