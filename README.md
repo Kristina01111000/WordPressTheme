@@ -15,7 +15,6 @@ To do:
 	- TESTIMONIALS
 	- SIGN UP
 	- FOOTER
-	- MODAL
 	- BOOTSTRAP CORE JAVASCRIPT
 - fix the navbar color issue
 	- not fixed by adding a navbar or nav class into css with color white
