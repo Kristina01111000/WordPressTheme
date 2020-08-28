@@ -19,8 +19,6 @@ To do:
 	- BOOTSTRAP CORE JAVASCRIPT
 - fix the navbar color issue
 	- not fixed by adding a navbar or nav class into css with color white
-- fix navbar button issue
-	- not fixed by changing btn css
 - fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 	-either issue with css or with js
 
