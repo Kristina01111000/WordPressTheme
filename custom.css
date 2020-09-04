@@ -76,6 +76,12 @@ img {
 .badge.social.twitter:hover{
 	background:  #55acee;
 }
+.badge.social.facebook:hover{
+	background:  #3b5988;
+}
+.badge.social.gplus:hover{
+	background:  #db4b39;
+}
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
