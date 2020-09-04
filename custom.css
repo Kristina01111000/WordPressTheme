@@ -206,6 +206,20 @@ section h3{
 #instructor h2{
 	margin: 0 0 20px;
 }
+#instructor .num {
+	background: #dd5638;
+	font-size: 30px;
+	font-weight: bold;
+	height: 140px;
+	width: 140px;
+	text-align: center;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
