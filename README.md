@@ -6,12 +6,6 @@ uses jquery and bootstrap
 
 To do: 
 - add html to the sections
- 	- BOOST INCOME
-	- WHO BENEFITS
-	- COURSE FEATURES
-	- PROJECT FEATURES
-	- VIDEO
-	- INSTRUCTOR
 	- TESTIMONIALS
 	- SIGN UP
 	- FOOTER
@@ -22,6 +16,7 @@ To do:
 	-either issue with css or with js
 - modal submit button is not inline with the rest of the form.  
 	- hacked fix by making modal bigger, figure out how to actually fix it
+- circles at bottom of instructor section have alignment issues
 
 Notes:
 Not putting downloaded code or pictures online
