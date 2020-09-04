@@ -2,7 +2,8 @@
 
 
 uses jquery and bootstrap
- from the udemy class
+
+from the udemy class
 
 To do: 
 - add html to the sections
