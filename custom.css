@@ -72,6 +72,10 @@ img {
 	border-radius: 50px;
 	color: white;
 }
+
+.badge.social.twitter:hover{
+	background:  #55acee;
+}
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
