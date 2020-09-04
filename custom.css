@@ -53,6 +53,10 @@ button, input, .btn, a.btn {
 img {
 	max-width: 100%;
 }
+
+.modal-content {
+	background: url("../img/tile.jpg") top left repeat;
+}
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
