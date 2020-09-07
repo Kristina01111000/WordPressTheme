@@ -222,6 +222,17 @@ section h3{
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 }
+
+#instructor .num .num-content {
+	display: table-cell;
+	vertical-align: middle;
+
+}
+#instructor .num span{
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
