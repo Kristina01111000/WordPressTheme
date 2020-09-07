@@ -207,9 +207,11 @@ section h3{
 	margin: 0 0 20px;
 }
 #instructor .num {
+	display: table;
 	background: #dd5638;
 	font-size: 30px;
 	font-weight: bold;
+	line-height: 24px;
 	height: 140px;
 	width: 140px;
 	text-align: center;
