@@ -233,6 +233,16 @@ section h3{
 	font-size: 20px;
 	font-weight: normal;
 }
+#kudos{	text-align: center;
+}
+.testimonial{
+	margin-bottom: 60px;
+}
+.testimonial img{
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
