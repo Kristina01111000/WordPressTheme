@@ -88,7 +88,11 @@ blockquote {
 	font-style: italic;
 	text-align: left;
 }
-
+blockquote cite{
+	display: block;
+	color: #777;
+	margin: 15px 0 0 0;
+}
 
 
 /* === HERO === */
