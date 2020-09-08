@@ -82,6 +82,15 @@ img {
 .badge.social.gplus:hover{
 	background:  #db4b39;
 }
+blockquote {
+	padding: 0;
+	border: none;
+	font-style: italic;
+	text-align: left;
+}
+
+
+
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
