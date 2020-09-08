@@ -7,7 +7,6 @@ from the udemy class
 
 To do: 
 - add html to the sections
-	- TESTIMONIALS
 	- SIGN UP
 	- FOOTER
 - fix the navbar color issue
