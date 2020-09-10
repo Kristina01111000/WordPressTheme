@@ -8,8 +8,6 @@ from the udemy class
 To do: 
 - add html to the sections
 	- FOOTER
-- fix the navbar color issue
-	- not fixed by adding a navbar or nav class into css with color white
 - navbar button outside still wrong color, do i even need it? --> possibly remove it
 - fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 	-either issue with css or with js
