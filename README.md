@@ -12,7 +12,10 @@ To do:
 	- problem in hero section and signup sections
 - modal submit button is not inline with the rest of the form.  
 	- hacked fix by making modal bigger, figure out how to actually fix it
-
+- add blog page
+- add resources page
+- add contact page
+	- fix parallax on all  4 pages
 
 Notes:
 Not putting downloaded code or pictures online
