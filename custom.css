@@ -300,10 +300,10 @@ section h3{
 #signup .btn{
 	font-size: 24px;
 }
-footer{
-	background: #3e4249;
+
+footer{	background: #3e4249;
 	color: white;
-	padding: 20px 0 10px;
+	padding: 20px 0 5px;
 	font-size: 15px;
 }
 footer p {
