@@ -14,7 +14,6 @@ To do:
 			- the dropdown works
 			- button looks good and highlights when hovered on
 		- what doesn't work:
-			- tabs don't light up when you hover on them
 			- tabs will not stay on the right side, navbar-right not working
 			
 	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
