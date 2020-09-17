@@ -10,8 +10,9 @@ To do:
 - on index page
 	- navbar button should only be visible at small screen sizes, and should have the dropdown, currently visible all the time with no dropdown
 		- fixed tabs, now they will not stay on the right side, navbar-right not working
-		- button still showing up 
+		- button still showing up on full screen
 		- the tabs go away on small screen
+		- check to see if the list is inside the button on small screen
 	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 		-either issue with css or with js
 		- problem in hero section and signup sections
