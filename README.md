@@ -16,8 +16,6 @@ To do:
 		- what doesn't work:
 			- tabs don't light up when you hover on them
 			- tabs will not stay on the right side, navbar-right not working
-			- button still showing up on full screen
-			- consider changing the edges of the button
 			
 	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 		-either issue with css or with js
