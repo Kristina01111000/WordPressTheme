@@ -9,10 +9,15 @@ To do:
 - put header and footer into seperate files, same on every page
 - on index page
 	- navbar button should only be visible at small screen sizes, and should have the dropdown, currently visible all the time with no dropdown
-		- fixed tabs, now they will not stay on the right side, navbar-right not working
-		- button still showing up on full screen
-		- the tabs go away on small screen
-		- check to see if the list is inside the button on small screen
+		- what works:
+			- the tabs go away on small screen
+			- the list is inside the button on small screen
+		- what doesn't work:
+			- tabs don't light up when you hover on them
+			- tabs will not stay on the right side, navbar-right not working
+			- button still showing up on full screen
+			- button looks like a tiny line, not a button
+
 	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 		-either issue with css or with js
 		- problem in hero section and signup sections
