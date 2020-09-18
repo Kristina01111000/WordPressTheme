@@ -336,6 +336,23 @@ footer a:hover {
 	padding: 0 0 15px;
 	border-bottom: solid 1px #ddd;
 }
+
+.post header h1{
+	font-size: 24px;
+}
+.post-image{
+	height: auto;
+}
+.post-details{
+	font-size: 12px;
+	width: 90%;
+}
+.post-details i.fa{
+	padding-left: 10px;
+}
+.post-details i.fa:first-child{
+	padding: 0;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
