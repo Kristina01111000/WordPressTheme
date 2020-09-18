@@ -369,6 +369,25 @@ footer a:hover {
 	text-align: center;
 	display: table;
 }
+
+.post-comments-badge a {
+	display: table-cell;
+	vertical-align: middle;
+	color: white;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.post-comments-badge i.fa{
+	display: block;
+	font-size: 15px;
+	padding: 0;
+	margin-bottom: 4px;
+}
+
+.post-comments-badge:hover{
+	background-color: #8bc653;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
