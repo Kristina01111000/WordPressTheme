@@ -23,6 +23,7 @@ To do:
 		- hacked fix by making modal bigger, figure out how to actually fix it
 - add blog page
 	- fix parallax
+	- make sidebar work and look right
 - add resources page
 	- fix parallax
 	- fix nav
