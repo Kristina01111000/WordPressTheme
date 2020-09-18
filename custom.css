@@ -353,6 +353,22 @@ footer a:hover {
 .post-details i.fa:first-child{
 	padding: 0;
 }
+
+/*=== COMMENTS ===*/
+.post-comments-badge{
+	height: 70px;
+	width: 70px;
+	position: absolute;
+	top: 25px;
+	right: 20px;
+	border: none;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	background: #79b044;
+	text-align: center;
+	display: table;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
