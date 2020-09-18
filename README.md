@@ -23,11 +23,12 @@ To do:
 		- hacked fix by making modal bigger, figure out how to actually fix it
 - add blog page
 	- fix parallax
-	- add blog posts
 - add resources page
 	- fix parallax
+	- fix nav
 - add contact page
 	- fix parallax 
+	- fix nav
 
 Notes:
 Not putting downloaded code or pictures online
