@@ -451,7 +451,21 @@ i.ci {
 .ci.ci-instructor {background-position: -160px 0;}
 .ci.ci-device {background-position: -200px 0;}
 
+/*===FORMS===*/
+label {
+	display: block;
+	font-weight: bold;
+}
 
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+textarea {
+	color: #666;
+	border: 1px solid #ccc;
+}
 /*---- MEDIA QUERIES ----*/
 @media screen and (max-width : 991px) {
 	/*add white rectangle ontop of picture*/
