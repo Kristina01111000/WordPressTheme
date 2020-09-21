@@ -341,7 +341,7 @@ footer a:hover {
 
 /* === BLOG === */
 
-.post{
+.post, .widget{
 	position: relative;
 	border: solid 1px #ddd;
 	background: white;
