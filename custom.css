@@ -379,6 +379,15 @@ footer a:hover {
 	padding: 0;
 }
 
+/*=== WIDGETS ===*/
+.widget{
+	padding: 20px;
+}
+.widget h4{
+	margin: 0 0 10px;
+	padding: 0 0 10px;
+	border-bottom: solid 1px #ddd;
+}
 /*=== COMMENTS ===*/
 .post-comments-badge{
 	height: 70px;
