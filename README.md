@@ -21,9 +21,9 @@ To do:
 		- problem in hero section and signup sections
 	- modal submit button is not inline with the rest of the form.  
 		- hacked fix by making modal bigger, figure out how to actually fix it
-- add blog page
-	- fix parallax
-	- make sidebar work and look right
+- fix on blog page
+	- placeholder not showing up, not sure why
+- add blog post page
 - add resources page
 	- fix parallax
 	- fix nav
