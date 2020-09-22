@@ -124,7 +124,6 @@ blockquote cite{
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
 	min-height:500px;
-	padding: 40px 0;
 	color: white;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;	
