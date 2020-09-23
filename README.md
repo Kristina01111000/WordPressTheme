@@ -23,7 +23,6 @@ To do:
 		- hacked fix by making modal bigger, figure out how to actually fix it
 - fix on blog page
 	- placeholder not showing up, not sure why
-- add blog post page
 - add resources page
 	- fix parallax
 	- fix nav
