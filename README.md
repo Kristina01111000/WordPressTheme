@@ -15,8 +15,8 @@ To do:
 			- button looks good and highlights when hovered on
 			- tabs are highlighted on correct page and hrefs are all fixed
 			- tabs pull right, used ml-auto
-		- what doesn't work:
-			- button will not stay on the right side, navbar-right not working
+			- button shifts right, moves logo up a div and it fixed it, idk why
+
 			
 	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
 		-either issue with css or with js
