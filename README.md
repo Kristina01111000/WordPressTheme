@@ -13,6 +13,7 @@ To do:
 			- the tabs go away on small screen
 			- the dropdown works
 			- button looks good and highlights when hovered on
+			- tabs are highlighted on correct page and hrefs are all fixed
 		- what doesn't work:
 			- tabs will not stay on the right side, navbar-right not working
 			
