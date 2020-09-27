@@ -28,9 +28,12 @@ To do:
 - add resources page
 	- fix parallax
 	- fix nav
+	- add the resources
 - add contact page
 	- fix parallax 
 	- fix nav
+	- add contacts, twitter etc
+	- add form
 
 Notes:
 Not putting downloaded code or pictures online
