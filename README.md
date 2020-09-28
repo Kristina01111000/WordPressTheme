@@ -6,7 +6,7 @@ uses jquery and bootstrap
 from the udemy class
 
 To do: 
-- put header and footer into seperate files, same on every page
+- put header and footer into seperate files, same on every page --> wait until uploading to wordpress b/c it may need it for upload
 - on index page
 	- navbar button should only be visible at small screen sizes, currently visible all the time 
 		- what works:
