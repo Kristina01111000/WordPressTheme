@@ -439,6 +439,19 @@ footer a:hover {
 .post-comments-badge:hover{
 	background-color: #8bc653;
 }
+
+#comments h3 {
+	text-align: center;
+}
+#comments h4{
+	font-size: 1.3em;
+}
+
+#comments ol{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
