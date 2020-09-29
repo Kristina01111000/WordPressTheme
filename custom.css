@@ -469,6 +469,11 @@ footer a:hover {
 	font-size: 0.96em;
 }
 
+#leave-comment{
+	margin: 40px 0 0;
+	padding: 20px 20px 20px;
+	border-top: solid 1px #eee;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
