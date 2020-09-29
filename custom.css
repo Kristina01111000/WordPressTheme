@@ -445,7 +445,7 @@ footer a:hover {
 	text-align: center;
 }
 #comments h4{
-	font-size: 1.3em;
+	font-size: 1.25em;
 }
 
 #comments ol{
@@ -466,7 +466,7 @@ footer a:hover {
 #comments ol li ol.children{
 	padding: 0;
 	list-style: none;
-	font-size: 0.96em;
+	font-size: 0.95em;
 }
 
 #leave-comment{
