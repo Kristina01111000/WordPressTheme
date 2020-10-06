@@ -484,6 +484,11 @@ footer a:hover {
 	float: left;
 	margin: 0 3% 40px 0;
 }
+
+.resource-row:nth-child(3n) {
+	margin-right: 0;
+}
+
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
