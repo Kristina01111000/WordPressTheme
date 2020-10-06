@@ -476,6 +476,14 @@ footer a:hover {
 	padding: 20px 20px 20px;
 	border-top: solid 1px #eee;
 }
+
+/* === RESOURCES === */
+
+.resource-row {
+	width: 31.33333333%;
+	float: left;
+	margin: 0 3% 40px 0;
+}
 /* === CUSTOM SPRITES === */
 i.ci {
 	display: inline-block;
