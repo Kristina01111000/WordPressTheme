@@ -7,12 +7,8 @@ from the udemy class
 
 To do: 
 
-	- put header and footer into seperate files, same on every page --> wait until uploading to wordpress b/c it may need it for upload
+	- put header and footer into separate files, same on every page --> wait until uploading to wordpress b/c it may need it for upload
 	
-	- fix parallax, back ground staying still while page scrolls, not scrolling at a different speed
-		-either issue with css or with js
-		- problem in hero section and signup sections
-		- i like the way it looks so i might not change it
 		
 	- modal submit button is not inline with the rest of the form.  
 		- hacked fix by making modal bigger, figure out how to actually fix it
