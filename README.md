@@ -17,12 +17,11 @@ To do:
 		- placeholder not showing up, not sure why
 		- padding at top not working correctly
 
-	- add resources page
-		- fix parallax?
-		- add the resources
+	- fix on resources page
+		- the padding looks wonky, something is wrong with the css
+			- first 2 are right next to each other, 3rd is on the right much further
 
 	- add contact page
-		- fix parallax?
 		- add contacts, twitter etc
 		- add form
 
