@@ -479,13 +479,13 @@ footer a:hover {
 
 /* === RESOURCES === */
 
-.resource-row {
+.resource {
 	width: 31.33333333%;
 	float: left;
 	margin: 0 3% 40px 0;
 }
 
-.resource-row:nth-child(3n) {
+.resource:nth-child(3n) {
 	margin-right: 0;
 }
 
