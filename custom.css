@@ -550,6 +550,11 @@ button[type="submit"] {
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 }
+input[type="submit"]:hover,
+button[type="submit"]:hover {
+	outline: none;
+	border: none;
+}
 /*---- MEDIA QUERIES ----*/
 @media screen and (max-width : 991px) {
 	/*add white rectangle ontop of picture*/
