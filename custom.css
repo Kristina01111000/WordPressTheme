@@ -525,9 +525,21 @@ textarea {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	display: block;
-	
 	width: 100%;
 	padding: 6px 12px;
+}
+
+input[type="submit"],
+button[type="submit"] {
+	display: inline-block;
+	margin-bottom: 0;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.33;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
 }
 /*---- MEDIA QUERIES ----*/
 @media screen and (max-width : 991px) {
