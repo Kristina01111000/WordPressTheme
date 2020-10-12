@@ -13,14 +13,6 @@ To do:
 	- modal submit button is not inline with the rest of the form.  
 		- hacked fix by making modal bigger, figure out how to actually fix it
 		
-	- fix on blog page
-		- placeholder not showing up, not sure why
-		- padding at top not working correctly
-
-	- add contact page
-		- add contacts, twitter etc
-		- add form
 
 Notes:
 Not putting downloaded code or pictures online
-
