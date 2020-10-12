@@ -549,11 +549,13 @@ button[type="submit"] {
 	border-radius: 6px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
+	background: #79b044;
 }
 input[type="submit"]:hover,
 button[type="submit"]:hover {
 	outline: none;
 	border: none;
+	background: #6a9b3d;
 }
 /*---- MEDIA QUERIES ----*/
 @media screen and (max-width : 991px) {
