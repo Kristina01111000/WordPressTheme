@@ -7,6 +7,11 @@ from the udemy class
 
 using xampp and bitnami, class uses mamp
 
+upload theme to wordpress by going to:
+	- themes
+		- add new
+			- upload zip file
+
 To do: 
 
 	- put header and footer into separate files, same on every page --> wait until uploading to wordpress b/c it may need it for upload
