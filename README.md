@@ -4,6 +4,7 @@
 uses jquery and bootstrap
 
 from the udemy class
+using bitnami, class uses mamp
 
 To do: 
 
