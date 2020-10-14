@@ -5,7 +5,6 @@
 */
 
 /*STYLE*/
-
 body{
   	font-family: 'proxima-nova','Raleway', Helvetica, sans-serif;
 	font-size: 16px;
@@ -18,19 +17,15 @@ h1,h2,h3,h4,h5,h6 {
 	text-rendering: optimizelegibility;
 	font-weight: bold;
 }
-
 h1{
 	font-size: 3em;
 }
-
 h1,h2{
 	margin: 0 0 40px;
 }
-
 h3{
 	margin: 20px 0;
 }
-
 h4{
 	font-size: 18px;
 }
@@ -43,21 +38,17 @@ p.lead{
 a:link, a:visited{
 	color: #dd5638;
 }
-
 a:hover {
 	text-decoration: none;
 }
-
 button, input, .btn, a.btn {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 	color: white;
 }
-
 .btn{
 	font-weight: bold;
 }
-
 button.btn:focus{
 	outline:none !important;
 }
@@ -65,7 +56,6 @@ button.btn:focus{
 	background: #79b044;
 	border: none;
 }
-
 .btn-success:hover{
 	background: #6a9b3d;
 	border-color: #6a9b3d;
@@ -74,15 +64,12 @@ button.btn:focus{
 	background-color: #DD5638;
 	border-color: #D95131;
 }
-
 img {
 	max-width: 100%;
 }
-
 .modal-content {
 	background: url("../img/tile.jpg") top left repeat;
 }
-
 .badge.social{
 	background: #ccc;
 	font-size: 24px;
@@ -97,7 +84,6 @@ img {
 	border-radius: 50px;
 	color: white;
 }
-
 .badge.social.twitter:hover{
 	background:  #55acee;
 }
@@ -119,7 +105,6 @@ blockquote cite{
 	margin: 15px 0 0 0;
 }
 
-
 /* === HERO === */
 #hero {
 	background:url('../img/hero-bg.jpg') 50% 0 repeat fixed;
@@ -129,21 +114,17 @@ blockquote cite{
 	text-rendering: optimizelegibility;	
 	margin-top: 50px;
 }
-
 #hero .hero-text{
 	margin-top: 30px;
 }
-
 #hero article{
 	width: 100%;
 	text-align: center;
 }
-
 #price-timeline{
 	margin:30px 0 60px;
 	text-align: center;
 }
-
 #price-timeline .price{
 	display: inline-block;
 	margin: 0 2% 10% 0;
@@ -153,11 +134,9 @@ blockquote cite{
 	position: relative;
 	vertical-align: top;
 }
-
 #price-timeline .price.active{
 	background: #DD5638;
 }
-
 #price-timeline .price span{
 	background:#101010;
 	display: block;
@@ -175,12 +154,9 @@ blockquote cite{
 	left: 50%;
 	margin-left: -35px;
 }
-
-
 #price-timeline h4{
 	margin: 0 0 10px;
 }
-
 #price-timeline h4 small{
 	color: white;
 	font-weight: bold;
@@ -215,7 +191,6 @@ section h3{
 	display: table;
 	width: 100%;
 }
-
 .feature-image-default {
 	background: url('../img/stuff-feature.jpg') no-repeat;
 	background-size: cover;
@@ -224,7 +199,6 @@ section h3{
 	background: url('../img/hipster-stuff.jpg') no-repeat;
 	background-size: cover;
 }
-
 .feature-image h1{
 	display: table-cell;
 	vertical-align: middle;
@@ -239,36 +213,29 @@ section h3{
 	text-rendering: optimizelegibility;
 	font-size: 1.2em;
 }
-
 #optin p {
 	margin: 7px 0 0 0;
 }
-
 #who-benefits{
 	background: white;
 }
-
 #course-features{
 	color: white;
 	background: #3E4249;
 	text-align: center;
 }
-
 #project-features{
 	text-align: center;
 }
-
 #video{
 	background:url("../img/stuff-bg.jpg") 50% 100% repeat fixed;
 	background-size: cover;
 	text-align: center;
 	color: white;
 }			
-
 #instructor{
 	background: white url("../img/brad-elvis.png") 90% -10px no-repeat;
 }
-
 #instructor h2{
 	margin: 0 0 20px;
 }
@@ -288,7 +255,6 @@ section h3{
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 }
-
 #instructor .num .num-content {
 	display: table-cell;
 	vertical-align: middle;
@@ -326,7 +292,6 @@ section h3{
 #signup .btn{
 	font-size: 24px;
 }
-
 footer{	background: #3e4249;
 	color: white;
 	padding: 20px 0 5px;
@@ -335,13 +300,11 @@ footer{	background: #3e4249;
 footer p {
 	margin: 0;
 }
-
 footer a:hover {
 	font-weight: bold;	
 }
 
 /* === BLOG === */
-
 .post, .widget, #comments{
 	position: relative;
 	border: solid 1px #ddd;
@@ -366,7 +329,6 @@ footer a:hover {
 	padding: 0 0 15px;
 	border-bottom: solid 1px #ddd;
 }
-
 .post header h1{
 	font-size: 24px;
 }
@@ -393,7 +355,6 @@ footer a:hover {
 	padding: 0 0 10px;
 	border-bottom: solid 1px #ddd;
 }
-
 .widget ul{
 	list-style: none;
 	margin: 0;
@@ -402,7 +363,6 @@ footer a:hover {
 .widget ul li{
 	margin: 0 0 5px;
 }
-
 .widget ul li:hover{
 	position:relative;
 	left: 1px;
@@ -423,7 +383,6 @@ footer a:hover {
 	text-align: center;
 	display: table;
 }
-
 .post-comments-badge a {
 	display: table-cell;
 	vertical-align: middle;
@@ -431,31 +390,26 @@ footer a:hover {
 	font-size: 20px;
 	line-height: 20px;
 }
-
 .post-comments-badge i.fa{
 	display: block;
 	font-size: 15px;
 	padding: 0;
 	margin-bottom: 4px;
 }
-
 .post-comments-badge:hover{
 	background-color: #8bc653;
 }
-
 #comments h3 {
 	text-align: center;
 }
 #comments h4{
 	font-size: 1.25em;
 }
-
 #comments ol{
 	list-style: none;
 	padding: 0;
 	margin: 0;
 }
-
 #comments ol li {
 	background: rgba(0,0,0,0.02);
 	padding: 10px 20px;
@@ -470,7 +424,6 @@ footer a:hover {
 	list-style: none;
 	font-size: 0.95em;
 }
-
 #leave-comment{
 	margin: 40px 0 0;
 	padding: 20px 20px 20px;
@@ -478,13 +431,11 @@ footer a:hover {
 }
 
 /* === RESOURCES === */
-
 .resource {
 	width: 31.33333333%;
 	float: left;
 	margin: 0 3% 40px 0;
 }
-
 .resource:nth-child(3n) {
 	margin-right: 0;
 }
@@ -496,7 +447,6 @@ i.ci {
 	width: 40px;
 	background: url("../img/icon-sprite.png") no-repeat;
 }
-
 .ci.ci-computer {background-position: 0 0;}
 .ci.ci-watch {background-position: -40px 0;}
 .ci.ci-calendar {background-position: -80px 0;}
@@ -509,7 +459,6 @@ label {
 	display: block;
 	font-weight: bold;
 }
-
 input[type="text"],
 input[type="email"],
 input[type="url"],
@@ -528,7 +477,6 @@ textarea {
 	width: 100%;
 	padding: 6px 12px;
 }
-
 input[type="submit"],
 button[type="submit"] {
 	display: inline-block;
@@ -557,6 +505,7 @@ button[type="submit"]:hover {
 	border: none;
 	background: #6a9b3d;
 }
+
 /*---- MEDIA QUERIES ----*/
 @media screen and (max-width : 991px) {
 	/*add white rectangle ontop of picture*/
@@ -564,7 +513,6 @@ button[type="submit"]:hover {
 		background: rgba(255,255,255,0.8);
 	}
 }
-
 @media screen and (max-width : 768px) {
 	/*make logo take up half of screen*/
 	.logo{
@@ -583,7 +531,6 @@ button[type="submit"]:hover {
 		min-height: 600px;
 	}
 }
-
 @media screen and (max-width : 568px) {
 	#instructor .num {
 		height: 100px;
@@ -599,4 +546,3 @@ button[type="submit"]:hover {
 		min-height:0;
 	}
 }
-
