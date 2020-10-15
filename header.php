@@ -40,7 +40,17 @@
 								<span class="icon-bar"></span>
 							</button>
 						</div>
-						
+						<?php 
+							wp_nav-menu( array(
+								'theme-location' 	=> 'primary',
+								'container'			=> 'nav',
+								'container-class'	=> 'navbar-collapse collapse',
+								'menu-class' 		=> 'nav navbar-nav navbar-right ml-auto'
+							)
+							
+							);
+						?>
+						<!--
 						<div class="navbar-collapse collapse ">
 							<ul class="nav navbar-nav ml-auto" >
 								<li ><a class="nav-link active" href="/">Home</a></li>
@@ -49,6 +59,7 @@
 								<li ><a class="nav-link"  href="contact.html">Contact</a></li>
 							</ul>
 						</div>
+						-->
 					</div>
 				</div>
 			</div><
