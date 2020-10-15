@@ -25,35 +25,31 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'bootstrap-to-wordpress' ); ?></a>
 
-	<header id="masthead" class="site-header">
-		<div class="site-branding">
-			<?php
-			the_custom_logo();
-			if ( is_front_page() && is_home() ) :
-				?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-				<?php
-			else :
-				?>
-				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-				<?php
-			endif;
-			$bootstrap_to_wordpress_description = get_bloginfo( 'description', 'display' );
-			if ( $bootstrap_to_wordpress_description || is_customize_preview() ) :
-				?>
-				<p class="site-description"><?php echo $bootstrap_to_wordpress_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
-			<?php endif; ?>
-		</div><!-- .site-branding -->
-
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'bootstrap-to-wordpress' ); ?></button>
-			<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-1',
-					'menu_id'        => 'primary-menu',
-				)
-			);
-			?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
+		<!-- HEADER ========================= -->
+		<header class = "site-header" role= "banner">
+			<div class="navbar-wrapper fixed-top">
+				<div class="navbar navbar-inverse navbar-dark bg-dark navbar-expand-lg fixed-top" role="navigation">
+					<div class="container">
+					<a class="navbar-brand" href="/"><img src="assets/img/logo.png" alt="Bootstrap to Wordpress"></a>
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggler bg-dark " type="button" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="navbar-toggler-icon bg-dark float-right"></span>
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span><!-- gives the lines on the button -->
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						
+						<div class="navbar-collapse collapse ">
+							<ul class="nav navbar-nav ml-auto" >
+								<li ><a class="nav-link active" href="/">Home</a></li>
+								<li ><a class="nav-link"  href="blog.html">Blog</a></li>
+								<li ><a class="nav-link"  href="resources.html">Resources</a></li>
+								<li ><a class="nav-link"  href="contact.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div><
+		</header>	
