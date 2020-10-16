@@ -1,11 +1,8 @@
 # WordPressTheme
 
-
-uses jquery and bootstrap
-
 from the udemy class
 
-using xampp and bitnami, class uses mamp
+using xampp and bitnami for wordpress, class uses mamp
 
 blank theme at underscores.me
 	 - much easier than writing it all out, can be edited easily
