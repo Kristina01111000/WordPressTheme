@@ -11,6 +11,7 @@ upload theme to wordpress by going to:
 	- themes
 		- add new
 			- upload zip file
+	- if you do this you need to reupload it everytime you change it, adding the folder manually will work better
 
 To do: 
 
