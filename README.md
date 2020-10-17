@@ -9,11 +9,8 @@ blank theme at underscores.me
 
 upload theme to wordpress by going to:
 	- themes
-	
 	- add new
-		
-	- upload zip file
-			
+	- upload zip file			
 		- if you do this you need to reupload it everytime you change it
 	- adding the folder manually will work better
 
