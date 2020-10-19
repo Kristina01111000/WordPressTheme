@@ -16,6 +16,9 @@ upload theme to wordpress by going to:
 
 To do: 
 
+	- switch all files to php for wordpress
+	
+	- make the footer file
 	
 	- modal submit button is not inline with the rest of the form.  ==> in footer, fix before then
 		- hacked fix by making modal bigger, figure out how to actually fix it
