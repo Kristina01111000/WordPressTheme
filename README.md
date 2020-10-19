@@ -5,14 +5,12 @@ from the udemy class
 using xampp and bitnami for wordpress, class uses mamp
 
 blank theme at underscores.me
-	 - much easier than writing it all out, can be edited easily
+	 => much easier than writing it all out, can be edited easily
 
 upload theme to wordpress by going to:
-	- themes
-	- add new
-	- upload zip file			
+	themes => add new => upload zip file			
 		- if you do this you need to reupload it everytime you change it
-	- adding the folder manually will work better
+	- adding the folder manually will work better => only if you know where it is
 
 To do: 
 
