@@ -26,7 +26,8 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'bootstrap-to-wordpress' ); ?></a>
 
-		<!-- HEADER ========================= -->
+		<!-- HEADER =========================
+			doesnt really need to change in php except for the nav menu -->
 		<header class = "site-header" role= "banner">
 			<div class="navbar-wrapper fixed-top">
 				<div class="navbar navbar-inverse navbar-dark bg-dark navbar-expand-lg fixed-top" role="navigation">
@@ -41,7 +42,7 @@
 								<span class="icon-bar"></span>
 							</button>
 						</div>
-						<?php 
+						<?php  //put the classes in the second part of array
 							wp_nav-menu( array(
 								'theme-location' 	=> 'primary',
 								'container'			=> 'nav',
@@ -51,7 +52,7 @@
 							
 							);
 						?>
-						<!--
+						<!-- original html code
 						<div class="navbar-collapse collapse ">
 							<ul class="nav navbar-nav ml-auto" >
 								<li ><a class="nav-link active" href="/">Home</a></li>
