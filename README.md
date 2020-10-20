@@ -14,6 +14,8 @@ upload theme to wordpress by going to:
 		- if you do this you need to reupload it everytime you change it
 		
 	Adding the folder manually will work better => only if you know where it is
+	
+		-(C:)>xampp>htdocs>wp>wordpress>wp-content>themes
 
 To do: 
 
