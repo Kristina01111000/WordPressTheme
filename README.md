@@ -19,6 +19,8 @@ upload theme to wordpress by going to:
 
 To do: 
 
+	- need to learn php, looking for a class
+
 	- switch all files to php for wordpress
 	
 	- make the footer file
