@@ -19,7 +19,7 @@ upload theme to wordpress by going to:
 
 To do: 
 
-	- need to learn php, looking for a class
+	- learning php, current problem is in the header array 
 
 	- switch all files to php for wordpress
 	
