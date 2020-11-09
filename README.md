@@ -20,6 +20,7 @@ upload theme to wordpress by going to:
 To do: 
 
 	- learning php, current problem is in the header array 
+		- try making the array then putting it into  wp_nav_menu();
 
 	- switch all files to php for wordpress
 	
