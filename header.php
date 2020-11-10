@@ -42,8 +42,8 @@
 								<span class="icon-bar"></span>
 							</button>
 						</div>
-						<?php  //put the classes in the second part of array
-							// check to see if this works
+						<?php 
+							// drop down does not work
 							$args = array(
 								'theme-location' 	=> 'primary',
 								'container'		=> 'nav',
@@ -52,16 +52,6 @@
 							);
 							wp_nav_menu($args);
 						?>
-						<!-- original html code
-						<div class="navbar-collapse collapse ">
-							<ul class="nav navbar-nav ml-auto" >
-								<li ><a class="nav-link active" href="/">Home</a></li>
-								<li ><a class="nav-link"  href="blog.html">Blog</a></li>
-								<li ><a class="nav-link"  href="resources.html">Resources</a></li>
-								<li ><a class="nav-link"  href="contact.html">Contact</a></li>
-							</ul>
-						</div>
-						-->
 					</div>
 				</div>
 			</div><
