@@ -43,14 +43,6 @@
 							</button>
 						</div>
 						<?php  //put the classes in the second part of array
-							/*wp_nav-menu( array(
-								'theme-location' 	=> 'primary',
-								'container'			=> 'nav',
-								'container-class'	=> 'navbar-collapse collapse',
-								'menu-class' 		=> 'nav navbar-nav navbar-right ml-auto'
-							)
-							
-							);*/
 							// check to see if this works
 							$args = array(
 								'theme-location' 	=> 'primary',
@@ -58,7 +50,7 @@
 								'container-class'	=> 'navbar-collapse collapse',
 								'menu-class' 		=> 'nav navbar-nav navbar-right ml-auto'
 							);
-							wp_nav-menu($args);
+							wp_nav_menu($args);
 						?>
 						<!-- original html code
 						<div class="navbar-collapse collapse ">
