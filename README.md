@@ -20,7 +20,8 @@ upload theme to wordpress by going to:
 To do: 
 
 	- learning php, current problem is in the header array 
-		- it shows up but the the dropdown is not working
+		- partially fixed, it shows up but the the dropdown is not working
+		- also the titles are not pushed down, covered by header
 
 	- switch all files to php for wordpress
 	
