@@ -23,6 +23,8 @@ To do:
 		- partially fixed, it shows up but the the dropdown is not working
 		- also the titles are not pushed down, covered by header
 		- need to add the menu in the menu tab on wordpress appearance section
+			- partially fixed, button shows, but the menu is not inside it
+			- button is in middle
 
 	- switch all files to php for wordpress
 	
