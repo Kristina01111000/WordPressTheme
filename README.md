@@ -25,6 +25,7 @@ To do:
 		- need to add the menu in the menu tab on wordpress appearance section
 			- partially fixed, button shows, but the menu is not inside it
 			- button is in middle
+				- need add menu in functions.php
 
 	- switch all files to php for wordpress
 	
