@@ -26,6 +26,7 @@ To do:
 			- partially fixed, button shows, but the menu is not inside it
 			- button is in middle
 				- need add menu in functions.php
+				- add css and styles to fix some of the issues
 
 	- switch all files to php for wordpress
 	
