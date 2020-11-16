@@ -19,6 +19,8 @@ upload theme to wordpress by going to:
 
 To do: 
 
+	- Need to find the root of the theme to add the assets folder to the theme 
+	
 	- learning php, current problem is in the header array 
 		- partially fixed, it shows up but the the dropdown is not working
 		- also the titles are not pushed down, covered by header
