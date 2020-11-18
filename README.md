@@ -19,10 +19,11 @@ upload theme to wordpress by going to:
 
 To do: 
 
-	- Need to find the root of the theme to add the assets folder to the theme 
+	- need to update header file and add css file
+	
+	- Need use the root  to add the assets folder to the theme 
 		- server is filezilla
 			- the css can be updated on the wordpress theme editor
-			- currently it works
 	
 	- current problem is in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
