@@ -21,7 +21,8 @@ To do:
 
 	- Need to find the root of the theme to add the assets folder to the theme 
 		- server is filezilla
-			- looks like the css needs to be updated through filezilla, not the wordpress theme editor
+			- the css can be updated on the wordpress theme editor
+			- currently it works
 	
 	- learning php, current problem is in the header array 
 		- partially fixed, it shows up but the the dropdown is not working
@@ -33,6 +34,8 @@ To do:
 				- add css and styles to fix some of the issues
 
 	- switch all files to php for wordpress
+	
+	- add all the pages to the website
 	
 	- make the footer file
 	
