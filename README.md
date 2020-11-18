@@ -2,7 +2,7 @@
 
 from the udemy class
 
-using xampp and bitnami for wordpress, class uses mamp
+using filezilla as the server for wordpress, class uses mamp
 
 blank theme at underscores.me
 	 => much easier than writing it all out, can be edited easily
