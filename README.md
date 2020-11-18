@@ -24,12 +24,11 @@ To do:
 			- the css can be updated on the wordpress theme editor
 			- currently it works
 	
-	- learning php, current problem is in the header array 
-		- partially fixed, it shows up but the the dropdown is not working
-		- also the titles are not pushed down, covered by header
+	- current problem is in the header array 
+		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
 			- partially fixed, button shows, but the menu is not inside it
-			- button is in middle
+			- button is not visible
 				- need add menu in functions.php
 				- add css and styles to fix some of the issues
 
