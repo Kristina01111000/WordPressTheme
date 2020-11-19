@@ -28,10 +28,9 @@ To do:
 	- current problem is in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
-			- partially fixed, button shows, but the menu is not inside it
-			- button is not visible
-				- need add menu in functions.php
-				- add css and styles to fix some of the issues
+			- partially fixed, button is visible when screen is small, not when big
+				- need to get the menu inside it
+				
 
 	- switch all files to php for wordpress
 	
