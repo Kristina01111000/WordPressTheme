@@ -13,17 +13,16 @@ upload theme to wordpress by going to:
 	
 		- if you do this you need to reupload it everytime you change it
 		
-	Adding the folder manually will work better => only if you know where it is
-	
+	Adding the folder manually will work better => only if you know where it is, 
 	Or use theme editor in wordpress dashboard
-
-To do: 
-
-	- need to update header file and add css file
 	
 	- Need use the root  to add the assets folder to the theme 
 		- server is filezilla
 			- the css can be updated on the wordpress theme editor
+
+To do: 
+	
+
 	
 	- current problem is in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
