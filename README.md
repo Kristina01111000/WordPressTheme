@@ -41,7 +41,7 @@ To do:
 		- footer file
 	
 	- edit the css file
-		- lots of excess css, some is changing my css
+		- lots of excess css, some is overwriting my css
 		
 
 Notes:
