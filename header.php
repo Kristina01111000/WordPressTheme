@@ -42,7 +42,7 @@
 			<div class="navbar-wrapper fixed-top">
 				<div class="navbar navbar-inverse navbar-dark bg-dark navbar-expand-lg fixed-top" role="navigation">
 					<div class="container">
-					<a class="navbar-brand" href="/"><img src="assets/img/logo.png" alt="Kristina Nelson"></a>
+					<a class="navbar-brand" href="/"><img src="<?php bloginfo('stylesheet_directory');?>/assets/img/logo.png" alt="Kristina Nelson"></a>
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggler bg-dark " type="button" data-toggle="collapse" data-target=".navbar-collapse">
 							<span class="navbar-toggler-icon bg-dark float-right"></span>
