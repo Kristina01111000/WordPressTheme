@@ -32,9 +32,13 @@ To do:
 				
 	- switch all files to php for wordpress
 	
-	- add all the pages to the website
-	
-	- make the footer file
+	- add all the pages to the website => switch to my website, not just classes
+		- blog
+		- contact
+		- index
+		- post
+		- resources
+		- footer file
 	
 	- edit the css file
 		
