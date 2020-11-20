@@ -17,7 +17,7 @@ upload theme to wordpress by going to:
 	Or use theme editor in wordpress dashboard
 	
 	- Need use the root  to add the assets folder to the theme 
-		- server is filezilla
+		- server is filezilla => username and password are saved in it
 			- the css can be updated on the wordpress theme editor
 
 To do: 
