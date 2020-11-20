@@ -30,12 +30,13 @@ To do:
 			- partially fixed, button is visible when screen is small, not when big
 				- need to get the menu inside it
 				
-
 	- switch all files to php for wordpress
 	
 	- add all the pages to the website
 	
 	- make the footer file
+	
+	- edit the css file
 		
 
 Notes:
