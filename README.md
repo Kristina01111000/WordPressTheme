@@ -4,8 +4,8 @@ from the udemy class
 
 using filezilla as the server for wordpress, class uses mamp
 
-blank theme at underscores.me
-	 => much easier than writing it all out, can be edited easily
+blank wp theme at underscores.me
+	 => much easier than writing it all out, can be edited 
 
 upload theme to wordpress by going to:
 
@@ -42,6 +42,7 @@ To do:
 	
 	- edit the css file
 		- lots of excess css, some is overwriting my css
+		- will need to delete a lot of it
 		
 
 Notes:
