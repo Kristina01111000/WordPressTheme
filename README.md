@@ -47,3 +47,4 @@ To do:
 
 Notes:
 Not putting downloaded code or pictures online
+css file is called style.css on wordpress, not custom.css
