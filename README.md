@@ -50,5 +50,7 @@ To do:
 		
 
 Notes:
-Not putting downloaded code or pictures online
-css file is called style.css on wordpress, not custom.css
+
+	- Not putting downloaded code or pictures online
+	- css file is called style.css on wordpress, not custom.css
+	- several files have different names between wordpress and initial html
