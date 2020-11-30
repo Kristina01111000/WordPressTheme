@@ -40,7 +40,7 @@ To do:
 		- index
 		- post
 		- resources
-		- footer file
+	
 	
 	- edit the css file
 		- lots of excess css, some is overwriting my css
