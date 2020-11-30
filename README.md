@@ -24,13 +24,15 @@ To do:
 	
 
 	
-	- current problem is in the header array 
+	- current problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
 			- partially fixed, button is visible when screen is small, not when big
 				- need to get the menu inside it
 				
 	- switch all files to php for wordpress
+	
+	- add all basic php files to website
 	
 	- add all the pages to the website => switch to my website, not just classes
 		- blog
