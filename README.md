@@ -46,6 +46,7 @@ To do:
 	- edit the css file
 		- lots of excess css, some is overwriting my css
 		- will need to delete a lot of it
+		- leaving specific things, like accessibility
 		
 
 Notes:
