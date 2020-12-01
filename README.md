@@ -34,6 +34,13 @@ To do:
 	- switch all files to php for wordpress
 	
 	- add all basic php files to website
+		- archive
+		- comment
+		- functions
+		- page
+		- search
+		- sidebar
+		- single
 	
 	- add all the pages to the website => switch to my website, not just classes
 		- blog
