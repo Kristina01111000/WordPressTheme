@@ -50,7 +50,7 @@ To do:
 	
 	- edit the css file
 		- lots of excess css, some is overwriting my css
-		- will need to delete a lot of it
+		- margin is still being overwritten, moving on for now
 		- leaving specific things, like accessibility
 		
 
