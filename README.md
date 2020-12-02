@@ -24,7 +24,7 @@ upload theme to wordpress by going to:
 To do: 
 	
 
-	
+	- having problem putting functions into underscores function.php
 	- current problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
@@ -36,8 +36,6 @@ To do:
 	- add all basic php files to website
 		- archive
 		- comment
-		- functions
-		- page
 		- search
 		- sidebar
 		- single
