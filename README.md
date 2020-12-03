@@ -23,9 +23,10 @@ upload theme to wordpress by going to:
 
 To do: 
 	
-	- put php extensions into pictures in css
+	- put php extensions into pictures in css in wordpress when pw problem is fixed
+		- done on github
 	- having problem putting functions into underscores function.php
-	- current problem in the header array 
+	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
 			- partially fixed, button is visible when screen is small, not when big
