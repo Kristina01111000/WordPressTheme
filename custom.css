@@ -553,11 +553,11 @@ section h3{
 }
 
 .feature-image-default {
-	background: url('../img/stuff-feature.jpg') no-repeat;
+	background: url('/wp-content/themes/bootstraptowordpress/assets/img/stuff-feature.jpg') no-repeat;
 	background-size: cover;
 }
 .feature-image-default-alt{
-	background: url('../img/hipster-stuff.jpg') no-repeat;
+	background: url('/wp-content/themes/bootstraptowordpress/assets/img/hipster-stuff.jpg') no-repeat;
 	background-size: cover;
 }
 
@@ -596,14 +596,14 @@ section h3{
 }
 
 #video{
-	background:url("../img/stuff-bg.jpg") 50% 100% repeat fixed;
+	background:url('/wp-content/themes/bootstraptowordpress/assets/img/stuff-bg.jpg") 50% 100% repeat fixed;
 	background-size: cover;
 	text-align: center;
 	color: white;
 }
 
 #instructor{
-	background: white url("../img/brad-elvis.png") 90% -10px no-repeat;
+	background: white url('/wp-content/themes/bootstraptowordpress/assets/img/brad-elvis.png") 90% -10px no-repeat;
 }
 
 #instructor h2{
@@ -649,7 +649,7 @@ section h3{
 }
 #signup{
 	text-align: center;
-	background: url("../img/hipster-stuff.jpg") center center repeat fixed;
+	background: url('/wp-content/themes/bootstraptowordpress/assets/img/hipster-stuff.jpg") center center repeat fixed;
 	background-size: cover;
 	color: white;
 	padding: 140px 0;
