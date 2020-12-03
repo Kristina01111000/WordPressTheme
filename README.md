@@ -34,7 +34,7 @@ To do:
 				
 	- switch all files to php for wordpress
 	
-	- add all basic php files to website
+	- add all basic php files to website -> some need names to be changed, some parts in multiple files
 		- archive
 		- comment
 		- search
