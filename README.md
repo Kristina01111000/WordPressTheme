@@ -23,7 +23,7 @@ upload theme to wordpress by going to:
 
 To do: 
 	
-
+	- put php extensions into pictures in css
 	- having problem putting functions into underscores function.php
 	- current problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
