@@ -412,7 +412,7 @@ img {
 }
 
 .modal-content {
-	background: url("../img/tile.jpg") top left repeat;
+	background: url('/wp-content/themes/bootstraptowordpress/assets/img/tile.jpg") top left repeat;
 }
 
 .badge.social{
