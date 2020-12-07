@@ -8,6 +8,7 @@ blank wp theme at underscores.me
 	 => much easier than writing it all out, can be edited 
 
 
+
 To do: 
 	
 	- put php extensions into pictures in css in wordpress when pw problem is fixed
@@ -45,6 +46,10 @@ To do:
 		- margin is still being overwritten, moving on for now
 		- leaving specific things, like accessibility
 		
+		
+Open Issues:
+	- margin being overwritten by initial css
+	- pictures not being connected to by css file
 		
 
 upload theme to wordpress by going to:
