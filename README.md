@@ -27,6 +27,8 @@ To do:
 		- done on github
 		- password problem fixed! Adding section to wp now!
 		- added, but pictures are not loading -> will try to fix it
+			- the img folder is uploaded to wp, logo connects
+			- issue is with connecting to the folder 
 	- having problem putting functions into underscores function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
