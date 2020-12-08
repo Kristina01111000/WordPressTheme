@@ -23,9 +23,7 @@ To do:
 		- need to add the menu in the menu tab on wordpress appearance section
 			- partially fixed, button is visible when screen is small, not when big
 				- need to get the menu inside it
-				
-	- switch all files to php for wordpress
-	
+
 	- add all basic php files to website -> some need names to be changed, some parts in multiple files
 		- archive
 		- comment
