@@ -37,6 +37,7 @@ To do:
 		- index
 		- post
 		- resources
+		- make page-home.php file for home page + add through filezilla
 	
 	
 	- edit the css file
