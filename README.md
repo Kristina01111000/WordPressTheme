@@ -38,6 +38,7 @@ To do:
 		- post
 		- resources
 		- make page-home.php file for home page + add through filezilla
+		- add modal etc to footer file
 	
 	
 	- edit the css file
