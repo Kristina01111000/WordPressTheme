@@ -34,7 +34,7 @@ To do:
 	- add all the pages to the website => switch to my website, not just classes
 		- blog
 		- contact
-		- index
+		- index => home, pictures not loading
 		- post
 		- resources	
 	
