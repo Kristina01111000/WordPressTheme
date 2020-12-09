@@ -227,7 +227,7 @@ get_header();
 						<h2>What People Are Saying About Brad</h2>
 						<div class= "row testimonial">
 							<div class="col-sm-4">
-								<img src="assets/img/brennan.jpg" alt="Brennan">
+								<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/brennan.jpg" alt="Brennan">
 							</div>
 							<div class="col-sm-8">
 								<blockquote>
@@ -239,7 +239,7 @@ get_header();
 						</div>
 						<div class= "row testimonial">
 							<div class="col-sm-4">
-								<img src="assets/img/ben.png" alt="Ben">
+								<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/ben.png" alt="Ben">
 							</div>
 							<div class="col-sm-8">
 								<blockquote>
@@ -250,7 +250,7 @@ get_header();
 						</div>
 						<div class= "row testimonial">
 							<div class="col-sm-4">
-								<img src="assets/img/aj.png" alt="AJ">
+								<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/aj.png" alt="AJ">
 							</div>
 							<div class="col-sm-8">
 								<blockquote>
@@ -261,7 +261,7 @@ get_header();
 						</div>
 						<div class= "row testimonial">
 							<div class="col-sm-4">
-								<img src="assets/img/ernest.png" alt="Ernest">
+								<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/ernest.png" alt="Ernest">
 							</div>
 							<div class="col-sm-8">
 								<blockquote>
