@@ -11,8 +11,7 @@ get_header();
 				<div class="container clearfix">
 					<div class="row">
 						<div class="col-sm-5"><!-- look at bootstrap -> css -> grid to relearn how this works-->
-							<img src = "<?php bloginfo('stylesheet_directory');?>										/assets/img/logo-badge.png" alt = "Bootstrap to WordPress" class = "logo">
-		<!--/*							src="<?php bloginfo('stylesheet_directory');?>/assets/img/logo.png"*/ -->
+							<img src = "<?php bloginfo('stylesheet_directory');?>/assets/img/logo-bge.png" alt = "Bootstrap to WordPress" class = "logo">
 						</div>
 						<div class= "col-sm-7 hero-text">
 							<h1>Bootstrap to WordPress</h1>
