@@ -74,7 +74,7 @@ get_header();
 		<section id="who-benefits">
 			<div class="container">
 				<div class= "section-header">
-					<img src="assets/img/icon-pad.png" alt="paper and pencil">
+					<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/icon-pad.png" alt="paper and pencil">
 					<h2>Who should take this course</h2>
 				</div>
 				<div class="row">
@@ -101,7 +101,7 @@ get_header();
 		<section id="course-features">
 			<div class="container">
 				<div class="section-header">
-					<img src="assets/img/icon-rocket.png" alt= "rocket">
+					<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/icon-rocket.png" alt= "rocket">
 					<h2> Course Features</h2>
 				</div>
 				<div class="row">
@@ -140,17 +140,17 @@ get_header();
 				<p class="lead">Throughout this entire course, you work towards building an incredibly beautiful website. Want to see the website you are going to build? You're looking at it! The website you're using right now is the website you will have built entirely by yourself, by the end of this course.</p>
 					<div class= "row">
 						<div class= "col-sm-4">
-							<img src="assets/img/icon-design.png" alt="Design">
+							<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/icon-design.png" alt="Design">
 							<h4>Sexy &amp; Modern Design</h4>
 							<p>You get to work with a modern, professional quality design & layout.</p>
 						</div>
 						<div class= "col-sm-4">
-							<img src="assets/img/icon-code.png" alt="Code">
+							<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/icon-code.png" alt="Code">
 							<h4>Quality HTML5 &amp; CSS3</h4>
 							<p>You'll learn how hand-craft a stunning website with valid, semantic and beautiful HTML5 & CSS3.</p>
 						</div>
 						<div class= "col-sm-4">
-							<img src="assets/img/icon-cms.png" alt="CMS">
+							<img src="<?php bloginfo('stylesheet_directory');?>/assets/img/icon-cms.png" alt="CMS">
 							<h4>Easy-to-use CMS</h4>
 							<p>Allow your clients to easily update their websites by converting your static websites to dynamic websites, using WordPress.</p>
 						</div>
