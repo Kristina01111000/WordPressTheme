@@ -13,10 +13,10 @@ To do:
 	
 	- put php extensions into pictures in css in wordpress when pw problem is fixed
 		- added, but pictures are not loading -> will try to fix it
-			- the img folder is uploaded to wp, logo connects
-			- issue is with connecting to the folder 
+			- the img folder is uploaded to wp, logo connects, issue is with connecting to the folder 
 			- hero section loaded with different folder extension
-	- having problem putting functions into underscores function.php
+			- still issue with images loaded in the css
+	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
 		- need to add the menu in the menu tab on wordpress appearance section
