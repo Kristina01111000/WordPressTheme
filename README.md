@@ -36,10 +36,7 @@ To do:
 		- contact
 		- index
 		- post
-		- resources
-		- make page-home.php file for home page + add through filezilla
-		- add modal etc to footer file
-	
+		- resources	
 	
 	- edit the css file
 		- lots of excess css, some is overwriting my css
