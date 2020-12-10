@@ -57,7 +57,7 @@
 					  <span class="sr-only">Close</span>
 					</button>
 				  </div>
-				  <div class="modal-body">
+				  <div class="modal-body" style="background: url('<?php bloginfo(stylesheet_directory)?>/assets/img/tile.jpg") top left repeat;">
 					<p>Enter your email, as a thanks we'll give you our best selling course for free!</p>
 					<form class="form-inline" role="form">
 						<div class = "form-group">
