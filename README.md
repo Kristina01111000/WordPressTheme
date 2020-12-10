@@ -18,6 +18,7 @@ To do:
 			- still issue with images loaded in the css
 			- easiest way to fix this is to put it into the php file like the logo is
 			- add style section to page or inline style?
+			- inline works, is confusing though
 	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
