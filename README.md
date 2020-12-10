@@ -16,6 +16,7 @@ To do:
 			- the img folder is uploaded to wp, logo connects, issue is with connecting to the folder 
 			- hero section loaded with different folder extension
 			- still issue with images loaded in the css
+			- easiest way to fix this is to put it into the php file like the logo is
 	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
