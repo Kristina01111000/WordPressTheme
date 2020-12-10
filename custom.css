@@ -455,7 +455,7 @@ blockquote cite{
 
 /* === HERO === */
 #hero {
-	background:url('/wp-content/themes/bootstraptowordpress/assets/img/hero-bg.jpg') 50% 0 repeat fixed;
+	/*background:url('/wp-content/themes/bootstraptowordpress/assets/img/hero-bg.jpg') 50% 0 repeat fixed;*/
 	min-height:500px;
 	color: white;
 	-webkit-font-smoothing: antialiased;
