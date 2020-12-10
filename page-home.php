@@ -5,8 +5,9 @@
 
 get_header();
 ?>
+	<body style="background: url('<>php bloginfo('stylesheet_directory')?>/assets/img/tile.jpg') top left repeat;>
 		<!-- HERO ========================= -->
-		<section id="hero" data-type="background" data-speed="5" style="background-image: url('<>php bloginfo('stylesheet_directory')?>/assets/img/hero-bg.jpg');">
+		<section id="hero" data-type="background" data-speed="5" style="background: url('<>php bloginfo('stylesheet_directory')?>/assets/img/hero-bg.jpg') 50% repeat fixed;">
 			<article>
 				<div class="container clearfix">
 					<div class="row">
@@ -274,5 +275,5 @@ get_header();
 				</div>
 			</div>
 		</section>
-		
+	</body>
 <?php get_footer();?>
