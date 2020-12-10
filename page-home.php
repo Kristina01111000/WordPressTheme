@@ -6,7 +6,7 @@
 get_header();
 ?>
 		<!-- HERO ========================= -->
-		<section id="hero" data-type="background" data-speed="5">
+		<section id="hero" data-type="background" data-speed="5" style="background-image: url('<>php bloginfo('stylesheet_directory')?>/assets/img/hero-bg.jpg');">
 			<article>
 				<div class="container clearfix">
 					<div class="row">
