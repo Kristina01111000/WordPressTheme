@@ -14,11 +14,7 @@ To do:
 	- put php extensions into pictures in css in wordpress when pw problem is fixed
 		- added, but pictures are not loading -> will try to fix it
 			- the img folder is uploaded to wp, logo connects, issue is with connecting to the folder 
-			- hero section loaded with different folder extension
-			- still issue with images loaded in the css
-			- easiest way to fix this is to put it into the php file like the logo is
-			- add style section to page or inline style?
-			- inline works, is confusing though
+			- inline works, is confusing and takes awhile to do
 	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
@@ -36,7 +32,6 @@ To do:
 	- add all the pages to the website => switch to my website, not just classes
 		- blog
 		- contact
-		- index => home, pictures not loading
 		- post
 		- resources	
 	
@@ -48,7 +43,6 @@ To do:
 		
 Open Issues:
 	- margin being overwritten by initial css
-	- pictures not being connected to by css file
 		
 
 upload theme to wordpress by going to:
