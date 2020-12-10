@@ -159,7 +159,7 @@ get_header();
 			</div>
 		</section>
 		<!-- VIDEO -->
-		<section id="video">
+		<section id="video" style= "background:url('<?php bloginfo('stylesheet_directory');?>/assets/img/stuff-bg.jpg') 50% 100% repeat fixed;">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-8 offset-sm-2">
