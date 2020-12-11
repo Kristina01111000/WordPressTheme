@@ -10,6 +10,7 @@ blank wp theme at underscores.me
 
 
 To do: 
+
 	- on index page, numbers dont lie section css not working
 		- circles not showing and background not white, weird picture not up also
 	- having problem with putting functions into function.php
