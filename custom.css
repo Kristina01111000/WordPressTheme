@@ -648,7 +648,7 @@ section h3{
 }
 #signup{
 	text-align: center;
-	background: url('/wp-content/themes/bootstraptowordpress/assets/img/hipster-stuff.jpg") center center repeat fixed;
+	/*background: url('/wp-content/themes/bootstraptowordpress/assets/img/hipster-stuff.jpg') center center repeat fixed;*/
 	background-size: cover;
 	color: white;
 	padding: 140px 0;
