@@ -55,7 +55,7 @@ get_header();
 		<section id="boost-income">
 			<div class="container">
 				<div class="section-header">
-					<img src="assets/img/icon-boost.png" alt="Chart">
+					<img src="<?php bloginfo('stylesheet_directory');?>assets/img/icon-boost.png" alt="Chart">
 					<h2>How you can Boost your Income</h2>
 				</div>
 				<p>This is text that is going to take up some space! This is text that is going to take up some space! This is text that is going to take up some space! This is text that is going to take up some space! This is text that is going to take up some space!</p>
