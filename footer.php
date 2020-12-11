@@ -29,7 +29,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-3">
-						<p><a href="/"><img src="assets/img/logo.png" alt="Bootstrap to Wordpress"></a></p>
+						<p><a href="/"><img src="<?php bloginfo(stylesheet_directory)?>/assets/img/logo.png" alt="Bootstrap to Wordpress"></a></p>
 					</div>
 					<div class="col-sm-6">
 						<ul class="list-inline">
