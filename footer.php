@@ -14,7 +14,7 @@
 <?php wp_footer(); ?>
 
 <!-- SIGN UP -->
-		<section id="signup" data-type="background" data-speed="4">
+		<section id="signup" data-type="background" data-speed="4" style="background: url('<?php bloginfo(stylesheet_directory)?>/assets/img/hipster-stuff.jpg')center center repeat fixed;">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6 offset-sm-3">
