@@ -10,12 +10,7 @@ blank wp theme at underscores.me
 
 
 To do: 
-	
-	- put php extensions into pictures in css in wordpress when pw problem is fixed
-		- added, but pictures are not loading -> will try to fix it
-			- the img folder is uploaded to wp, logo connects, issue is with connecting to the folder 
-			- inline works, is confusing and takes awhile to do
-			- finish putting pictures in inline
+	- on index page, numbers dont lie section css not working
 	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
@@ -65,3 +60,4 @@ Notes:
 	- Not putting downloaded code or pictures online
 	- css file is called style.css on wordpress, not custom.css
 	- several files have different names between wordpress and initial html
+	- had to put background pictures in inline, would not work in css file
