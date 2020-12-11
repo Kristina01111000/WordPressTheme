@@ -15,6 +15,7 @@ To do:
 		- added, but pictures are not loading -> will try to fix it
 			- the img folder is uploaded to wp, logo connects, issue is with connecting to the folder 
 			- inline works, is confusing and takes awhile to do
+			- finish putting pictures in inline
 	- having problem with putting functions into function.php
 	- problem in the header array 
 		- partially fixed, it shows up but the the dropdown is still not working
