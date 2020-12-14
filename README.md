@@ -63,3 +63,4 @@ Notes:
 	- css file is called style.css on wordpress, not custom.css
 	- several files have different names between wordpress and initial html
 	- had to put background pictures in inline, would not work in css file
+		- figure out how to make them addable in the css editor, not the file, so they are easy to change
