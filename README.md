@@ -7,6 +7,9 @@ using filezilla as the server for wordpress, class uses mamp
 blank wp theme at underscores.me
 	 => much easier than writing it all out, can be edited 
 
+plugins im learning to use on wp:
+	- peepso
+	- learndash
 
 
 To do: 
