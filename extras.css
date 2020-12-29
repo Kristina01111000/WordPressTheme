@@ -4,3 +4,7 @@ for safe keeping */
 p{
 color: #FFFFFF
 }
+h1, heading-size-1 {
+  font-size: 2.4rem;
+  font-weight: bold;
+}
