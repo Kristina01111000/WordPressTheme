@@ -11,7 +11,7 @@ plugins im learning to use on wp:
 	- peepso
 	- learndash
 
-Currently working on Dr. W's site
+Currently working on Dr. W's site ->> saving css changes in extras.css
 
 To do: 
 
