@@ -11,6 +11,7 @@ plugins im learning to use on wp:
 	- peepso
 	- learndash
 
+Currently working on Dr. W's site
 
 To do: 
 
