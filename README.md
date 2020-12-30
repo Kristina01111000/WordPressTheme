@@ -12,6 +12,7 @@ plugins im learning to use on wp:
 	- learndash
 
 Currently working on Dr. W's site ->> saving css changes in extras.css
+	-> all members have access to wp dashboard, this is a problem that needs to be fixed
 
 To do: 
 
