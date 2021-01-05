@@ -14,13 +14,9 @@ plugins im learning to use on wp:
 Currently working on Dr. W's site ->> saving css changes in extras.css
 
 	-> all members have access to wp dashboard, this is a problem that needs to be fixed
-	
 	-> looking for examples of sites using it so he can look at aesthetic options
-	
 		-> peepso.com/groups/?showcase/    has many examples of sites, most use gecko theme
-		
 		-> most of them look quite similar 
-		
 			-> people who are really good at websites probably do not need help from the peepso community
 
 To do: 
