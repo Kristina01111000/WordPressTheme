@@ -19,7 +19,9 @@ Currently working on Dr. W's site ->> saving css changes in extras.css
 	
 		-> peepso.com/groups/?showcase/    has many examples of sites, most use gecko theme
 		
-		-> most of them look quite similar -- people who are really good at websites probably do not need help from the peepso community
+		-> most of them look quite similar 
+		
+			-> people who are really good at websites probably do not need help from the peepso community
 
 To do: 
 
