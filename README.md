@@ -19,7 +19,7 @@ Currently working on Dr. W's site
 		-> peepso.com/groups/?showcase/    has many examples of sites, most use gecko theme
 		-> most of them look quite similar 
 			-> people who are really good at websites probably do not need help from the peepso community
-	-> change palette + add pictures
+	-> change palette + add pictures -> warm tones, stockphotos?
 	-> make new pages -> written in notes, some copied from website
 	-> add pages to menu
 	-> make head page
