@@ -20,8 +20,8 @@ Currently working on Dr. W's site
 		-> most of them look quite similar 
 			-> people who are really good at websites probably do not need help from the peepso community
 	-> change palette + add pictures -> warm tones, stockphotos?
-	-> make new pages -> written in notes, some copied from website
-	-> add pages to menu
+	-> make new pages -> written in notes, some copied from website, paragraphs from dr w
+	-> add pages to menu -> top menu or drop down?
 	-> make head page -> bite sized bits of all the pages + linked
 
 To do: 
