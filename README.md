@@ -22,7 +22,7 @@ Currently working on Dr. W's site
 	-> change palette + add pictures -> warm tones, stockphotos?
 	-> make new pages -> written in notes, some copied from website
 	-> add pages to menu
-	-> make head page
+	-> make head page -> bite sized bits of all the pages + linked
 
 To do: 
 
