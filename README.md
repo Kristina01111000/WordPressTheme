@@ -20,7 +20,7 @@ Currently working on Dr. W's site
 		-> most of them look quite similar 
 			-> people who are really good at websites probably do not need help from the peepso community
 	-> change palette + add pictures
-	-> make new pages
+	-> make new pages -> written in notes, some copied from website
 	-> add pages to menu
 	-> make head page
 
