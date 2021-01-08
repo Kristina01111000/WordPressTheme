@@ -19,9 +19,9 @@ Currently working on Dr. W's site
 		-> peepso.com/groups/?showcase/    has many examples of sites, most use gecko theme
 		-> most of them look quite similar 
 			-> people who are really good at websites probably do not need help from the peepso community
-	-> add background pictures -> stockphotos?
+	-> add background pictures -> stockphotos? how to on extras page
 	-> finish pages -> benefits needs work, nutrition needs work
-	-> make head page -> bite sized bits of all the pages + linked
+	-> make head page -> bite sized bits of all the pages + links
 
 To do: 
 
