@@ -2,6 +2,7 @@
 .page-id-11{ /*page id is on edit page in url, different for each page*/
   background-image: url('img url here') !important;
   background-position: center; /*or 0 50px if you need to move it below header, needs different value for different size screens*/
+  background-attachment: fixed;/*default is scroll*/
 }
 
 
