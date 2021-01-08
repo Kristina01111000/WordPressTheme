@@ -1,3 +1,12 @@
+/*How to set a different background image for each page*/
+.page-id-11{ /*page id is on edit page in url, different for each page*/
+  background-image: url('img url here') !important;
+  
+}
+
+
+
+
 /* just the extra built in css from Dr. W's current site
 for safe keeping */
 
