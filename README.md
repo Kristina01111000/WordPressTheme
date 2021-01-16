@@ -23,6 +23,7 @@ Currently working on Dr. W's site
 		-> finding good pictures is going to be the hard part
 	-> finish pages -> benefits needs work, nutrition needs work
 	-> make head page -> bite sized bits of all the pages + links
+	-> waiting on inmotion support to move forward, will continue on with my stuff for now
 
 To do: 
 
