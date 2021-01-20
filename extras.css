@@ -1,10 +1,10 @@
 /*How to set a different background image for each page*/
 .page-id-11{ /*page id is on edit page in url, different for each page*/
   background-image: url('img url here') !important; /*Even with important in some themes if you have a set background image this picture will be overwritten by the set background image*/
-  background-position: center; /*or 0 50px if you need to move it below header, needs different value for different size screens*/
+  background-position: center; /*or " 0 50px;" if you need to move it below header, needs different value for different size screens*/
   background-attachment: fixed;/*default is scroll*/
   background-size: 800px 600px; /*sets size of picture, auto uses actual size of picture, needs to be resized for smaller screens*/
-  background-repeat: no-repeat; /*stops the picture from repeating, make it repeat if you want to*/
+  background-repeat: no-repeat; /*stops the picture from repeating, make it repeat if you want to, only for solid background patterns*/
 }
 /*image url in media library, has an item number and its own page, its got a specific number, don't mess it up
  remove the background size if you want it to self size
