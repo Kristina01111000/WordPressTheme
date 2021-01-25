@@ -22,6 +22,7 @@ Currently working on Dr. W's site
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put seperate pictures into additional css
 		-> figure out how to make pictures scroll
+	-> not sure how i feel about the coded front page in gecko theme
 
 To do: 
 
