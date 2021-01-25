@@ -19,6 +19,8 @@ Currently working on Dr. W's site
 	-> finish pages -> benefits needs work, nutrition needs work
 	-> make head page -> bite sized bits of all the pages + links
 	-> putting a picture in the header or the body, pick one, i prefer body
+	-> with gecko theme in editor main background photo is set in theme -> body settings
+		
 
 
 To do: 
