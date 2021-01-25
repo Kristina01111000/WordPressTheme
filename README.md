@@ -20,7 +20,7 @@ Currently working on Dr. W's site
 	-> make head page -> bite sized bits of all the pages + links
 	-> putting a picture in the header or the body, pick one, i prefer body
 	-> with gecko theme in editor main background photo is set in theme -> body settings
-		
+		-> need to put seperate pictures into additional css
 
 
 To do: 
