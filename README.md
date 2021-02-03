@@ -22,6 +22,8 @@ Currently working on Dr. W's site
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put seperate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
+		
+	-> highlight different sections then add to group to make group work
 	
 
 To do: 
