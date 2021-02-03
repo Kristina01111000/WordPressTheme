@@ -24,6 +24,7 @@ Currently working on Dr. W's site
 		-> figure out how to make pictures scroll -> change to scroll
 		
 	-> highlight different sections then add to group to make group work
+		-> figure out how to make color stretch across screen and not mess with side bar
 	
 
 To do: 
