@@ -21,7 +21,7 @@ Currently working on Dr. W's site
 	-> putting a picture in the header or the body, pick one, i prefer body
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put seperate pictures into additional css
-		-> figure out how to make pictures scroll
+		-> figure out how to make pictures scroll -> change to scroll
 	-> not sure how i feel about the coded front page in gecko theme
 
 To do: 
