@@ -10,6 +10,15 @@
  remove the background size if you want it to self size
 remember the ' ' in the url brackets*/
 
+/*background img example from site i am deleting */
+.page-id-65{ 
+  background-image: url('http://growingholistically.com/wp-content/uploads/2021/01/Fresh-tomatoes-1-scaled.jpg') !important; /*Even with important in some themes if you have a set background image this picture will be overwritten by the set background image*/
+  background-position: center; /*or " 0 50px;" if you need to move it below header, needs different value for different size screens*/
+  background-attachment: fixed;/*default is scroll which moves with page, fixed does not move as page moves but stays as the page moves*/
+  background-size: auto; /*sets size of picture, auto uses actual size of picture, needs to be resized for smaller screens*/
+  background-repeat: no-repeat; /*stops the picture from repeating, make it repeat if you want to, only for solid background patterns*/
+}
+
 
 
 /* just the extra built in css from Dr. W's current site
