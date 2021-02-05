@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 	-> make text sixe 12
 	-> remove top menu from home page
 	-> make accordions with a read more section to make home page not super long
-	-> addd join now sections throughout page
+	-> add join now sections throughout page (3 or 4) not after every section
 	
 
 To do: 
