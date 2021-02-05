@@ -27,6 +27,7 @@ Currently working on Dr. W's site
 	-> highlight different sections then add to group to make group work
 		-> figure out how to make color stretch across screen and not mess with side bar
 	-> add sidebar to left side too
+	-> make text sixe 12
 	
 
 To do: 
