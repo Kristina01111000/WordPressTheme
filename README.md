@@ -14,8 +14,9 @@ plugins im learning to use on wp:
 Currently working on Dr. W's site 
 
 	->> saving css changes in extras.css
-	-> add background pictures -> stockphotos? how to on extras page 
+	-> add  pictures -> stockphotos? how to on extras page 
 		-> finding good pictures is going to be the hard part
+		-> no background photos underneath text, just wrapped and as breaks
 	-> finish pages -> benefits needs work, nutrition needs work
 	-> make head page -> bite sized bits of all the pages + links
 	-> putting a picture in the header or the body, pick one, i prefer body
