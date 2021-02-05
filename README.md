@@ -14,18 +14,17 @@ plugins im learning to use on wp:
 Currently working on Dr. W's site 
 
 	->> saving css changes in extras.css
-	-> add  pictures -> stockphotos? how to on extras page 
-		-> finding good pictures is going to be the hard part
-		-> no background photos underneath text, just wrapped and as breaks
+
 	-> finish pages -> benefits needs work, nutrition needs work
-	-> make head page -> bite sized bits of all the pages + links
-	-> putting a picture in the header or the body, pick one, i prefer body
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put seperate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
-		
 	-> highlight different sections then add to group to make group work
 		-> figure out how to make color stretch across screen and not mess with side bar
+	To Do:
+	-> add  pictures -> stockphotos? how to on extras page 
+		-> finding good pictures is going to be the hard part
+		-> no background photos underneath text, just wrapped and as breaks	
 	-> add sidebar to left side too
 	-> make text sixe 12
 	-> remove top menu from home page
