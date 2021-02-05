@@ -30,6 +30,7 @@ Currently working on Dr. W's site
 	-> remove top menu from home page
 	-> make accordions with a read more section to make home page not super long
 	-> add join now sections throughout page (3 or 4) not after every section
+	-> black and white text, will probably end up changing the theme colors to dark blue and something else
 	
 
 To do: 
