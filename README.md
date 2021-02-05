@@ -27,7 +27,6 @@ Currently working on Dr. W's site
 		-> no background photos underneath text, just wrapped and as breaks	
 		-> make accordions with a read more section to make home page not super long
 	-> add join now sections throughout page (3 or 4) not after every section
-	-> make headings bigger
 	-> members side bar or menu? 
 	-> top menu will probably completely change
 	
