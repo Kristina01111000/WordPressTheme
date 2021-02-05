@@ -29,6 +29,7 @@ Currently working on Dr. W's site
 	-> add sidebar to left side too
 	-> make text sixe 12
 	-> remove top menu from home page
+	-> make accordions with a read more section to make home page not super long
 	
 
 To do: 
