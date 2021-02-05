@@ -17,6 +17,10 @@ remember the ' ' in the url brackets*/
   background-attachment: fixed;/*default is scroll which moves with page, fixed does not move as page moves but stays as the page moves*/
   background-size: auto; /*sets size of picture, auto uses actual size of picture, needs to be resized for smaller screens*/
   background-repeat: no-repeat; /*stops the picture from repeating, make it repeat if you want to, only for solid background patterns*/
+  /* how to change opacity of background picture w/o affecting the text on top of it*/
+  /*opacity: 0.5; makes text opaque also*/
+  background-color: rgba(255,255,255,0.5);/*puts white box in same spot as background picture*/
+  background-blend-mode: lighten;/*blends the box and picture*/
 }
 
 
