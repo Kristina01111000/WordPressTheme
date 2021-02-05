@@ -30,6 +30,7 @@ Currently working on Dr. W's site
 	-> make text sixe 12
 	-> remove top menu from home page
 	-> make accordions with a read more section to make home page not super long
+	-> addd join now sections throughout page
 	
 
 To do: 
