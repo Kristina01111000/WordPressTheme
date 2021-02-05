@@ -15,7 +15,7 @@ Currently working on Dr. W's site
 
 	->> saving css changes in extras.css
 
-	-> finish pages -> benefits needs work, nutrition needs work
+	
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put seperate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
@@ -26,7 +26,6 @@ Currently working on Dr. W's site
 		-> finding good pictures is going to be the hard part
 		-> no background photos underneath text, just wrapped and as breaks	
 	-> add sidebar to left side too
-	-> make text sixe 12
 	-> remove top menu from home page
 	-> make accordions with a read more section to make home page not super long
 	-> add join now sections throughout page (3 or 4) not after every section
