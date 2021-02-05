@@ -28,6 +28,7 @@ Currently working on Dr. W's site
 		-> figure out how to make color stretch across screen and not mess with side bar
 	-> add sidebar to left side too
 	-> make text sixe 12
+	-> remove top menu from home page
 	
 
 To do: 
