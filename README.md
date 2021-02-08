@@ -29,6 +29,7 @@ Currently working on Dr. W's site
 	-> add join now sections throughout page (3 or 4) not after every section
 	-> members side bar or menu? 
 	-> top menu will probably completely change
+	-> look up how to make an accordion on wp
 	
 
 To do: 
