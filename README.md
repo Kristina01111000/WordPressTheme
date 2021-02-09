@@ -24,6 +24,7 @@ Currently working on Dr. W's site
 	To Do:
 	-> add  pictures -> stockphotos? how to on extras page 
 		-> make accordions with a read more section to make home page not super long
+			-> don't think this is a good idea, have separate pages if it is going to be an issue
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
 	-> members side bar or menu? 
