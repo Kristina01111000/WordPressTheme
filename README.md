@@ -17,7 +17,7 @@ Currently working on Dr. W's site
 
 	
 	-> with gecko theme in editor main background photo is set in theme -> body settings
-		-> need to put seperate pictures into additional css
+		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
 	-> highlight different sections then add to group to make group work
 		-> figure out how to make color stretch across screen and not mess with side bar
@@ -25,6 +25,7 @@ Currently working on Dr. W's site
 	-> add  pictures -> stockphotos? how to on extras page 
 		-> make accordions with a read more section to make home page not super long
 	-> add join now sections throughout page (3 or 4) not after every section
+		-> make one good join here block to copy/paste
 	-> members side bar or menu? 
 	-> top menu will probably completely change
 	-> look up how to make an accordion on wp
