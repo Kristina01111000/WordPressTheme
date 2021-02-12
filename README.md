@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
 	-> members side bar or menu? 
-	-> top menu will probably completely change
+	-> top menu will probably completely change -> colors and what is on it
 	-> fix sidebar for home page and other pages
 	
 
