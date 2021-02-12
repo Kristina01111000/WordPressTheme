@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 	-> members side bar or menu? 
 	-> top menu will probably completely change -> colors and what is on it
 	-> fix sidebar for home page and other pages
-	-> make separate pages for yoga, nutrition etc
+	-> make separate pages for yoga, nutrition etc -> to have community chats on
 	
 
 To do: 
