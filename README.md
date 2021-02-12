@@ -30,7 +30,7 @@ Currently working on Dr. W's site
 		-> make one good join here block to copy/paste
 	-> members side bar or menu? 
 	-> top menu will probably completely change
-	-> look up how to make an accordion on wp
+	-> 
 	
 
 To do: 
