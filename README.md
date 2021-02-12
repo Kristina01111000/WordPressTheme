@@ -30,7 +30,7 @@ Currently working on Dr. W's site
 		-> make one good join here block to copy/paste
 	-> members side bar or menu? 
 	-> top menu will probably completely change
-	-> 
+	-> fix sidebar for home page and other pages
 	
 
 To do: 
