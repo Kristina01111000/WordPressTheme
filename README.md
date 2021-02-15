@@ -31,6 +31,7 @@ Currently working on Dr. W's site
 	-> make separate pages for yoga, nutrition etc -> to have community chats on
 	-> make monthly topics page
 	-> make header jumps work
+	-> make join here section look good
 	
 
 To do: 
