@@ -31,7 +31,7 @@ Currently working on Dr. W's site
 	-> make monthly topics page
 	-> make header jumps work
 	-> make join here section look good
-	-> figure out how to change sidebar menu text color
+	-> figure out how to change sidebar menu text color in gecko theme
 	
 
 To do: 
