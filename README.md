@@ -25,8 +25,7 @@ Currently working on Dr. W's site
 	-> add icon -> S should be done with it soon, add it to header and back of title on title page
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
-	-> members side bar or menu? 
-	-> top menu will probably completely change -> colors and what is on it
+	-> top menu will probably completely change ->  what is on it
 	-> fix sidebar for home page and other pages
 	-> make separate pages for yoga, nutrition etc -> to have community chats on
 	-> make monthly topics page
