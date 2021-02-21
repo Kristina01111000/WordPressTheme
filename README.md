@@ -26,7 +26,8 @@ Currently working on Dr. W's site
 	-> add icon -> S should be done with it soon, add it to header and back of title on title page
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
-	-> make separate pages for yoga, nutrition etc -> to have community chats on
+	-> make separate pages for yoga, nutrition personal growth
+		-> to have community chats on
 	-> make join here section look good
 
 	
