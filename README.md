@@ -28,6 +28,7 @@ Currently working on Dr. W's site
 		-> make one good join here block to copy/paste
 	-> make separate pages for yoga, nutrition personal growth
 		-> to have community chats on
+	-> make calendar page
 	-> make join here section look good
 
 	
