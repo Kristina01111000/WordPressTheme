@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 	-> fix sidebar for home page and other pages
 	-> make separate pages for yoga, nutrition etc -> to have community chats on
 	-> make join here section look good
-	-> figure out how to change sidebar menu text color in gecko theme
+
 	
 
 To do: 
