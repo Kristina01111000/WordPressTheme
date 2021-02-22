@@ -17,6 +17,7 @@ Currently working on Dr. W's site
 	->> saving css changes in extras.css
 	->> with peepso: turning on comments literally a radio box on page
 		-> documentation on how to make polls is useless -> only on activity stream, user profile, and in groups
+		-> see if it can be stuck onto a page somewhere
 	
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
