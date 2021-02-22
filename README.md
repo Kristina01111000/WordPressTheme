@@ -15,7 +15,7 @@ plugins im learning to use on wp:
 Currently working on Dr. W's site 
 
 	->> saving css changes in extras.css
-
+	->> with peepso: turning on comments literally a radio box on page
 	
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
