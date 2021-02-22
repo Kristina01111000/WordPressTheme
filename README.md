@@ -16,6 +16,7 @@ Currently working on Dr. W's site
 
 	->> saving css changes in extras.css
 	->> with peepso: turning on comments literally a radio box on page
+		-> documentation on how to make polls is useless
 	
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
