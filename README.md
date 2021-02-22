@@ -30,6 +30,7 @@ Currently working on Dr. W's site
 		-> to have community chats on
 	-> make calendar page
 	-> make archive page
+		-> all the old daily topics
 	-> make join here section look good
 
 	
