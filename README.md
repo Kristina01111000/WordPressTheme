@@ -34,6 +34,7 @@ Currently working on Dr. W's site
 	-> make join here section look good
 	-> look at site icon -> keep or change? smaller? background transparent? square it out?
 	-> change blue headings to green
+	-> add the google fonts from email
 
 	
 
