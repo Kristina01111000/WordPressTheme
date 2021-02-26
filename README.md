@@ -25,7 +25,6 @@ Currently working on Dr. W's site
 	-> highlight different sections then add to group to make group work
 		-> figure out how to make color stretch across screen and not mess with side bar
 	To Do:
-	-> add icon -> S should be done with it soon, add it to header and back of title on title page
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
 	-> make separate pages for yoga, nutrition personal growth
