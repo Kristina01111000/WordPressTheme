@@ -36,6 +36,7 @@ Currently working on Dr. W's site
 	-> change blue headings to green
 	-> add the google fonts from email
 	-> add login section in front page -> sidebars gone
+	-> personal success bullets look wierd at different sizes
 
 	
 
