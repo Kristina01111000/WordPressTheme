@@ -32,7 +32,8 @@ Currently working on Dr. W's site
 	-> make archive pages(on header) -> like the personal growth page, not body awareness
 		-> all the old daily topics
 	-> make join here section look good
-	-> look at site icon -> keep or change? smaller? background transparent? square it out?
+	-> look at site icon -> keep or change? background transparent? 
+	-> center picture of icon on front page
 	-> change blue headings to green
 	-> add the google fonts from email
 	-> add login section in front page -> sidebars gone
