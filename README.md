@@ -32,7 +32,7 @@ Currently working on Dr. W's site
 	-> make archive pages(on header)
 		-> all the old daily topics
 	-> make join here section look good
-	-> look at site icon -> keep or change? smaller? background transparent?
+	-> look at site icon -> keep or change? smaller? background transparent? square it out?
 
 	
 
