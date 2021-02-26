@@ -27,8 +27,6 @@ Currently working on Dr. W's site
 	To Do:
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
-	-> make separate pages for yoga, nutrition personal growth
-		-> to have community chats on
 	-> make calendar page
 	-> make archive page
 		-> all the old daily topics
