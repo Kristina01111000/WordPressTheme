@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 	To Do:
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
-	-> make archive pages(on header)
+	-> make archive pages(on header) -> like the personal growth page, not body awareness
 		-> all the old daily topics
 	-> make join here section look good
 	-> look at site icon -> keep or change? smaller? background transparent? square it out?
