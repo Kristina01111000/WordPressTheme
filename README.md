@@ -36,7 +36,8 @@ Currently working on Dr. W's site
 	-> change blue headings to green
 	-> add the google fonts from email
 	-> add login section in front page -> sidebars gone
-	-> personal success bullets look wierd at different sizes
+	-> personal success bullets look wierd at different sizes  
+		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> make a landing page for each month
 	-> add the word documents he just sent
 	-> figure out tag system -> for weekly topics, can have multiple tags?
