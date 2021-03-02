@@ -39,6 +39,7 @@ Currently working on Dr. W's site
 	-> personal success bullets look wierd at different sizes
 	-> make a landing page for each month
 	-> add the word documents he just sent
+	-> figure out tag system -> for weekly system
 
 	
 
