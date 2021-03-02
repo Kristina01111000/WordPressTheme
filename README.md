@@ -35,7 +35,8 @@ Currently working on Dr. W's site
 		-> check with him
 	-> change blue headings to green
 	-> add the google fonts from email
-	-> add login section in front page -> sidebars gone
+	-> add login section in front page -> sidebars gone 
+		-> talk about adding singular sidebar with login or something, don't want to make it hard to login
 	-> personal success bullets look wierd at different sizes  
 		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> make a landing page for each month
