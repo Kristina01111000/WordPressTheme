@@ -38,6 +38,7 @@ Currently working on Dr. W's site
 	-> add login section in front page -> sidebars gone
 	-> personal success bullets look wierd at different sizes
 	-> make a landing page for each month
+	-> add the word documents he just sent
 
 	
 
