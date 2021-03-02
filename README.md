@@ -41,6 +41,7 @@ Currently working on Dr. W's site
 	-> make a landing page for each month
 	-> add the word documents he just sent
 	-> figure out tag system -> for weekly system
+	-> change the colors to what was emailed
 
 	
 
