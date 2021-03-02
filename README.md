@@ -33,6 +33,7 @@ Currently working on Dr. W's site
 		-> all the old daily topics
 	-> make join here section look good
 	-> look at site icon -> keep or change? background transparent? 
+		-> check with him
 	-> change blue headings to green
 	-> add the google fonts from email
 	-> add login section in front page -> sidebars gone
