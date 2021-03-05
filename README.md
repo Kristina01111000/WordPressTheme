@@ -24,6 +24,7 @@ Currently working on Dr. W's site
 		-> figure out how to make pictures scroll -> change to scroll
 	-> set up forwarded email with admin first name for dr w
 	-> update php and wordpress on inmotion site in cpanel
+		-> plugin add new issue and admin power issue solved by updating
 		
 		
 	To Do:
