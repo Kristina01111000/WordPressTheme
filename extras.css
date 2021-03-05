@@ -23,6 +23,10 @@ remember the ' ' in the url brackets*/
   background-blend-mode: lighten;/*blends the box and picture*/
 }
 
+// current front page text color change(is a hex color)
+.page-id-142, p {
+  color: green;
+}
 /*Home page headings current color #00425e*/
 
 /* just the extra built in css from Dr. W's current site
