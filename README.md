@@ -23,6 +23,7 @@ Currently working on Dr. W's site
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
 	-> set up forwarded email with admin first name for dr w
+	-> update php and wordpress on inmotion site in cpanel
 		
 		
 	To Do:
