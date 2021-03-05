@@ -22,7 +22,7 @@ Currently working on Dr. W's site
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
-
+	-> set up forwarded email with admin first name for dr w
 		
 		
 	To Do:
