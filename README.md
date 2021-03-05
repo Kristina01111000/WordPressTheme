@@ -10,7 +10,7 @@ blank wp theme at underscores.me
 plugins im learning to use on wp:
 	- peepso
 	- learndash -> has inbuilt paypal
-	- woocommerce
+	- woocommerce -> not needed if learndash is being used
 
 Currently working on Dr. W's site 
 
