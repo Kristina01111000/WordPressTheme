@@ -22,7 +22,7 @@ Currently working on Dr. W's site
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
-	-> set up forwarded email with admin first name for dr w
+	-> set up forwarded email with admin first name for dr w -> easy on inmotion
 	-> update php and wordpress on inmotion site in cpanel
 		-> plugin add new issue and admin power issue solved by updating
 		-> also allowed a backup to be made :)
