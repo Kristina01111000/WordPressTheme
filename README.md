@@ -28,7 +28,7 @@ Currently working on Dr. W's site
 		-> also allowed a backup to be made :)
 		
 		
-	To Do:
+To Do:
 	-> add join now sections throughout page (3 or 4) not after every section
 		-> make one good join here block to copy/paste
 	-> make archive pages(on header) -> like the personal growth page, not body awareness
@@ -46,6 +46,7 @@ Currently working on Dr. W's site
 	-> add the word documents he just sent
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> change the colors to what was emailed
+	-> get ssl done
 
 	
 
