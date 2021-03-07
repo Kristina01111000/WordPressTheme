@@ -49,6 +49,7 @@ To Do:
 	-> change the colors to what was emailed
 	-> get ssl done
 	-> put articles in posts not pages
+	-> finalize color scheme
 
 	
 
