@@ -26,6 +26,8 @@ Currently working on Dr. W's site
 	-> update php and wordpress on inmotion site in cpanel
 		-> plugin add new issue and admin power issue solved by updating
 		-> also allowed a backup to be made :)
+		-> current backup is stored on computer 
+			-> takes ~ 30 minutes 
 		
 		
 To Do:
