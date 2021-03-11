@@ -52,6 +52,7 @@ To Do:
 	-> get ssl done
 	-> finalize color scheme -> added yellow
 	-> make forum links in class module, not the list section
+	-> ? put monthly topics into a course
 	
 
 To do: 
