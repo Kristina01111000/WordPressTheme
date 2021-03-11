@@ -53,7 +53,7 @@ To Do:
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> change the colors to what was emailed
 	-> get ssl done
-	-> finalize color scheme
+	-> finalize color scheme -> added yellow
 	-> make forum links in class module, not the list section
 	
 
