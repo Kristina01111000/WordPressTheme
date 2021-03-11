@@ -29,6 +29,7 @@ Currently working on Dr. W's site
 		-> current backup is stored on computer 
 			-> takes ~ 30 minutes 
 	-> in peepso logo height has to be in px, not %
+	
 		
 		
 To Do:
@@ -52,7 +53,7 @@ To Do:
 	-> change the colors to what was emailed
 	-> get ssl done
 	-> finalize color scheme
-
+	-> make forum links in class module, not the list section
 	
 
 To do: 
