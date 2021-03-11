@@ -51,7 +51,6 @@ To Do:
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> change the colors to what was emailed
 	-> get ssl done
-	-> put articles in posts not pages
 	-> finalize color scheme
 
 	
