@@ -18,7 +18,7 @@ Currently working on Dr. W's site
 	->> with peepso: turning on comments literally a radio box on page
 		-> polls appear to only be possible on activity stream, user profile, and in groups
 		-> see if it can be stuck onto a page somewhere
-	-> need to get ssl certification done -> wierd issue, not validated
+	-> need to get ssl certification done -> the key was not made, once it was made everything worked
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
