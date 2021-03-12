@@ -50,6 +50,7 @@ To Do:
 		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> get ssl done
+		-> needs the key from the other website that was bought with the same package
 	-> finalize color scheme -> added yellow
 	-> make forum links in class module, not the list section
 	-> ? put monthly topics into a course
