@@ -38,9 +38,6 @@ Currently working on Dr. W's site
 To Do:
 
 	-> make join now sections work with color scheme 
-	-> make archive pages(on header) -> like the personal growth page, not body awareness
-		-> all the old daily topics
-	-> make join here section look good
 	-> look at site icon -> keep or change? background transparent? 
 		-> check with him
 	-> change blue headings to green
