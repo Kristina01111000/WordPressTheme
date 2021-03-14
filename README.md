@@ -46,7 +46,7 @@ To Do:
 		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
-	-> make forum links in class module, not the list section
+	-> make forum links in class module
 	-> ? put monthly topics into a course
 		-> easier for user and email system
 	
