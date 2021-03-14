@@ -31,7 +31,7 @@ Currently working on Dr. W's site
 		-> current backup is stored on computer 
 			-> takes ~ 30 minutes 
 	-> in peepso logo height has to be in px, not %
-	-> figure out emails using peepso
+	-> figure out emails using peepso -> need the peepso plugin
 	
 		
 		
