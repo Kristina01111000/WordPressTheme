@@ -40,7 +40,6 @@ To Do:
 	-> make join now sections work with color scheme 
 	-> look at site icon -> keep or change? background transparent? 
 		-> check with him
-	-> change blue headings to green
 	-> add the google fonts from email
 	-> add login section in middle of front page
 	-> personal success bullets look wierd at different sizes  
