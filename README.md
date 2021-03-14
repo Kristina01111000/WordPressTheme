@@ -7,10 +7,10 @@ using filezilla as the server for wordpress, class uses mamp
 blank wp theme at underscores.me
 	 => much easier than writing it all out, can be edited 
 
-plugins im learning to use on wp:
+plugins im using on wp:
 	- peepso
 	- learndash -> has inbuilt paypal
-	- woocommerce -> not needed if learndash is being used
+
 
 Currently working on Dr. W's site 
 
