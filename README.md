@@ -42,8 +42,7 @@ To Do:
 		-> check with him
 	-> change blue headings to green
 	-> add the google fonts from email
-	-> add login section in front page -> sidebars gone 
-		-> talk about adding singular sidebar with login or something, don't want to make it hard to login
+	-> add login section in middle of front page
 	-> personal success bullets look wierd at different sizes  
 		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> figure out tag system -> for weekly topics, can have multiple tags?
