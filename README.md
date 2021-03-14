@@ -48,6 +48,7 @@ To Do:
 	-> finalize color scheme -> added yellow
 	-> make forum links in class module, not the list section
 	-> ? put monthly topics into a course
+		-> easier for user and email system
 	
 
 To do: 
