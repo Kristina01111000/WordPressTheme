@@ -1,1 +1,5 @@
 list of shortcodes that are useful in wp
+
+-> shift when pressing enter in paragraph to get another line
+
+
