@@ -1,5 +1,7 @@
-list of shortcodes that are useful in wp
+list of shortcuts that are useful in wp
 
 -> shift when pressing enter in paragraph to get another line
 
 -> shift-alt-z to delete a block
+
+-> new update allows adding a seperator as a block
