@@ -38,6 +38,7 @@ Currently working on Dr. W's site
 To Do:
 
 	-> make join now sections work with color scheme 
+		-> making then buttons -> easy and look good
 	-> look at site icon -> keep or change? background transparent? 
 		-> check with him
 	-> add the google fonts from email
