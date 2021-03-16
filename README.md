@@ -49,6 +49,9 @@ To Do:
 	-> make forum links in class module
 	-> ? put monthly topics into a course
 		-> easier for user and email system
+	-> finish off the front page 
+		- placement of join nows mainly
+		- plus the color scheme
 	
 
 To do: 
