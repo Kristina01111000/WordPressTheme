@@ -44,6 +44,7 @@ To Do:
 	-> add the google fonts from email
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
+		- need to do this this week, stopping the website from being completed
 	-> make forum links in class module
 	-> ? put monthly topics into a course
 		-> easier for user and email system
