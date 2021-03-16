@@ -42,8 +42,6 @@ To Do:
 	-> look at site icon -> keep or change? background transparent? 
 		-> check with him
 	-> add the google fonts from email
-	-> add login section in middle of front page
-		-> added one at side also
 	-> personal success bullets look wierd at different sizes  
 		-> wierd formatting issue, probably just make a new section instead of trying to fix it
 	-> figure out tag system -> for weekly topics, can have multiple tags?
