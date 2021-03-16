@@ -41,6 +41,7 @@ To Do:
 		-> making then buttons -> easy and look good
 	-> look at site icon -> keep or change? background transparent? 
 		-> check with him
+		-> bigger icon for front page?
 	-> add the google fonts from email
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
