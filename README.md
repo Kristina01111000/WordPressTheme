@@ -38,10 +38,8 @@ Currently working on Dr. W's site
 To Do:
 
 	-> make join now sections work with color scheme 
-		-> making then buttons -> easy and look good
-	-> look at site icon -> keep or change? background transparent? 
-		-> check with him
-		-> bigger icon for front page?
+		-> making them buttons -> easy and look good
+	-> bigger icon for front page?
 	-> add the google fonts from email
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
