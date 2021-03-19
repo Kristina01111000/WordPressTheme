@@ -45,6 +45,7 @@ To Do:
 	-> finish off the front page 
 		- placement of join nows mainly
 		- plus the color scheme
+	-> finish off 2 ssl settings
 	
 
 To do: 
