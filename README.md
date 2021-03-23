@@ -46,6 +46,8 @@ To Do:
 		- plus the color scheme
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top  :(
+	-> get images/ video from dr w 
+	
 	
 
 To do: 
