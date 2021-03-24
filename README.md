@@ -38,9 +38,7 @@ To Do:
 	-> finalize color scheme -> added yellow
 		- need to do this this week, stopping the website from being completed
 	-> make forum links in class module
-	-> ? put monthly topics into a course
-		-> easier for user and email system
-		-> i believe this is going to happen, not articles
+	-> get monthly topics from dr w
 	-> finish off the front page 
 		- placement of join nows mainly
 		- plus the color scheme
