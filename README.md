@@ -39,13 +39,15 @@ To Do:
 		- need to do this this week, stopping the website from being completed
 	-> make forum links in class module
 	-> get monthly topics from dr w
+		-> add them to the course
 	-> finish off the front page 
 		- placement of join nows mainly
 		- plus the color scheme
+		- also add pictures on front page
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top  :(
 	-> get images/ video from dr w 
-	-> also add pictures on front page
+	
 	
 	
 
