@@ -46,6 +46,7 @@ To Do:
 		- also add pictures on front page
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top  :(
+		-> check how to fix this online
 	-> get images/ video from dr w 
 	
 	
