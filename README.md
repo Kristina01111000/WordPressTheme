@@ -59,7 +59,7 @@ To Do:
 	-> add bigger margins to the front page
 	-> add margins to header pages tags sections
 	-> fix the light text color
-	
+	-> fix opacity of popup background
 
 To do: 
 
