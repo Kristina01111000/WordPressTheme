@@ -56,7 +56,7 @@ To Do:
 	-> try to get 1.5 line spacing for bullet point lists 
 		-> the css overwrite is not working
 	-> set up the tags
-	
+	-> add bigger margins to the front page
 	
 	
 
