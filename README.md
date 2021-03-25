@@ -58,7 +58,7 @@ To Do:
 	-> set up the tags
 	-> add bigger margins to the front page
 	-> add margins to header pages tags sections
-	
+	-> fix the light text color
 	
 
 To do: 
