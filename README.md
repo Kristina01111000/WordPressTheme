@@ -15,6 +15,7 @@ plugins im using on wp:
 Currently working on Dr. W's site 
 
 	->>>>> need to figure out sign in with peepso & learndash course
+		- also way to make it free for current patients
 	->> saving css changes in extras.css
 	->> with peepso: turning on comments literally a radio box on page
 		-> polls appear to only be possible on activity stream, user profile, and in groups
