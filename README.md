@@ -53,7 +53,9 @@ To Do:
 	-> get images/ video from dr w 
 	-> fix layout of icon and login button on front page
 	-> get 2/3 more images for the front page
-	-> try to get 1.5 line spacing for bullet point lists -> the css overwrite is not working
+	-> try to get 1.5 line spacing for bullet point lists 
+		-> the css overwrite is not working
+	-> set up the tags
 	
 	
 	
