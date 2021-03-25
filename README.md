@@ -28,6 +28,7 @@ Currently working on Dr. W's site
 		-> figure out how to make pictures scroll -> change to scroll
 	-> in peepso logo height has to be in px, not %
 	-> figure out emails using peepso -> need the peepso plugin
+		- current plan is to use learndash email section
 	
 		
 		
