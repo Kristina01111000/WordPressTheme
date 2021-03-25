@@ -52,6 +52,7 @@ To Do:
 		-> check how to fix this online
 	-> get images/ video from dr w 
 	-> fix layout of icon and login button on front page
+	-> get 2/3 more images for the front page
 	
 	
 	
