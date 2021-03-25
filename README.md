@@ -51,6 +51,7 @@ To Do:
 	-> cannot get the columns to match up on top  :(
 		-> check how to fix this online
 	-> get images/ video from dr w 
+	-> fix layout of icon and login button on front page
 	
 	
 	
