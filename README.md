@@ -60,6 +60,7 @@ To Do:
 	-> add margins to header pages tags sections
 	-> fix the light text color
 	-> fix opacity of popup background
+	-> make the groups 
 
 To do: 
 
