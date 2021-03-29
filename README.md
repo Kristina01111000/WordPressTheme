@@ -52,6 +52,7 @@ To Do:
 		-> check how to fix this online
 	-> get images/ video from dr w 
 	-> fix layout of icon and login button on front page
+		-> how? can't do it w/o messing up the icon centering
 	-> get 2/3 more images for the front page
 		-> waiting on dr w
 	-> try to get 1.5 line spacing for bullet point lists 
