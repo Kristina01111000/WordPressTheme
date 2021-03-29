@@ -58,7 +58,6 @@ To Do:
 		-> the css overwrite is not working
 	-> set up the tags
 	-> add bigger margins to the front page
-	-> add margins to header pages tags sections
 	-> fix the light text color
 	-> fix opacity of popup background
 	-> make the groups 
