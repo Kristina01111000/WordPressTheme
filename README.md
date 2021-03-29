@@ -58,7 +58,6 @@ To Do:
 		-> the css overwrite is not working
 	-> set up the tags
 	-> fix the light text color
-	-> fix opacity of popup background
 	-> make the groups 
 
 To do: 
