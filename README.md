@@ -60,6 +60,7 @@ To Do:
 	-> set up the tags
 	-> fix the light text color
 	-> make the groups 
+		-> one for each of the header tabs
 
 To do: 
 
