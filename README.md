@@ -61,6 +61,7 @@ To Do:
 	-> fix the light text color
 	-> make the groups 
 		-> one for each of the header tabs
+	-> setup backlog of weekily topics
 
 To do: 
 
