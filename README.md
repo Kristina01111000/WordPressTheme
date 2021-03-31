@@ -62,6 +62,7 @@ To Do:
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
+	-> find login page, not register page
 
 To do: 
 
