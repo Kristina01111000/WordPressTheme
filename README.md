@@ -54,7 +54,7 @@ To Do:
 	-> fix layout of icon and login button on front page
 		-> how? can't do it w/o messing up the icon centering
 	-> get 2/3 more images for the front page
-		-> waiting on dr w
+		-> put a temp photo, waiting on dr w for confirmations
 	-> try to get 1.5 line spacing for bullet point lists 
 		-> the css overwrite is not working
 	-> set up the tags
