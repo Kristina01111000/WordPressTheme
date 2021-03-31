@@ -50,6 +50,7 @@ To Do:
 	-> cannot get the columns to match up on top  :(
 		-> check how to fix this online
 	-> get images/ video from dr w 
+		-> plus confirmation on the images i picked
 	-> fix layout of icon and login button on front page
 		-> how? can't do it w/o messing up the icon centering
 	-> get 2/3 more images for the front page
