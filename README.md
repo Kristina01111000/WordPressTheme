@@ -44,8 +44,7 @@ To Do:
 	-> get monthly topics from dr w
 		-> add them to the course
 	-> finish off the front page 
-		- placement of join nows mainly
-		- plus the color scheme
+		- the color scheme
 		- also add pictures on front page
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top  :(
