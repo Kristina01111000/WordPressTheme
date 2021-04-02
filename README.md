@@ -53,6 +53,9 @@ To Do:
 		-> plus confirmation on the images i picked
 	-> fix layout of icon and login button on front page
 		-> how? can't do it w/o messing up the icon centering
+		-> could add more white to left side of icon?
+		-> hard to scale with screen though
+		-> make columns?
 	-> get 2/3 more images for the front page
 		-> put temp photos in correct places
 		-> waiting on dr w for confirmations
