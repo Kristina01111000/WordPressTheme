@@ -66,6 +66,7 @@ To Do:
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
 	-> check link goes login page, not register page
+	-> decide what the main page when they first login is going to be
 
 
 To do: 
