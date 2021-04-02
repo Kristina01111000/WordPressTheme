@@ -42,6 +42,7 @@ To Do:
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
 		- need to do this this week, stopping the website from being completed
+		-  - making 4/5 different color schemes and will send to dr w
 	-> make forum links in class module
 	-> get monthly topics from dr w
 		-> add them to the course
