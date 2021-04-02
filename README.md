@@ -44,7 +44,7 @@ To Do:
 		- need to do this this week, stopping the website from being completed
 		-  - making 4/5 different color schemes and will send to dr w
 	-> make forum links in class module
-	-> get monthly topics from dr w
+	-> get monthly topic articles from dr w
 		-> add them to the course
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top on front page :(
