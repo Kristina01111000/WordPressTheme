@@ -67,6 +67,8 @@ To Do:
 	-> setup backlog of weekily topics
 	-> check link goes login page, not register page
 	-> decide what the main page when they first login is going to be
+	-> read through entire website for typos
+		-> lots of little ones everywhere
 
 
 To do: 
