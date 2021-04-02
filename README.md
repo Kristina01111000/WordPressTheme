@@ -67,6 +67,8 @@ To Do:
 	-> decide what the main page when they first login is going to be
 	-> read through entire website for typos
 		-> lots of little ones everywhere
+	-> work on loading speed of front page, 
+		-> img problem or server speed problem
 
 
 To do: 
