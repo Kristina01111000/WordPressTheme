@@ -66,7 +66,7 @@ To Do:
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
 	-> check link goes login page, not register page
-	-> check all links, some don't work correctly
+
 
 To do: 
 
