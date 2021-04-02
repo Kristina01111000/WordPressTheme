@@ -36,8 +36,6 @@ Currently working on Dr. W's site
 		
 To Do:
 
-
-	-> bigger icon for front page?
 	-> add the google fonts from email
 		-> or the fonts that are included in gecko
 	-> figure out tag system -> for weekly topics, can have multiple tags?
