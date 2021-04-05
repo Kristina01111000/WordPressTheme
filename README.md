@@ -56,8 +56,7 @@ To Do:
 		-> hard to scale with screen though
 		-> make columns?
 	-> get 2/3 more images for the front page
-		-> put temp photos in correct places
-		-> waiting on dr w for confirmations
+		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
 	-> fix the light text color
 	-> make the groups 
