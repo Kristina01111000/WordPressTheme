@@ -69,7 +69,7 @@ To Do:
 	-> work on loading speed of front page, 
 		-> img problem or server speed problem
 	-> get word document from dr w
-
+		-> needed to fill in all missing text everywhere
 
 To do: 
 
