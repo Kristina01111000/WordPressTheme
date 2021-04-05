@@ -55,7 +55,7 @@ To Do:
 		-> could add more white to left side of icon?
 		-> hard to scale with screen though
 		-> make columns?
-	-> get 2/3 more images for the front page
+	-> get several more images for the front page
 		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
 	-> fix the light text color
@@ -68,6 +68,7 @@ To Do:
 		-> lots of little ones everywhere
 	-> work on loading speed of front page, 
 		-> img problem or server speed problem
+	-> get word document from dr w
 
 
 To do: 
