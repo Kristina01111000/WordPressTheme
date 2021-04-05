@@ -36,6 +36,7 @@ To Do:
 
 	-> add the google fonts from email
 		-> or the fonts that are included in gecko
+		-> does he want a different font?
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> added yellow
 		- need to do this this week, stopping the website from being completed
