@@ -30,6 +30,7 @@ Currently working on Dr. W's site
 	-> peepso needs to be updated every week
 		-> need to buy new key every year probably
 	-> figure out how to do payment for classes and free for current patients
+	-> he uses inmotion web hosting
 		
 To Do:
 
