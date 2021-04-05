@@ -58,6 +58,7 @@ To Do:
 		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
 	-> fix the light text color
+		-> switch to black for now
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
