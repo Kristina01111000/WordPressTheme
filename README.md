@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 		- current plan is to use learndash email section
 	-> peepso needs to be updated every week
 		-> need to buy new key every year probably
-		
+	-> figure out how to do payment for classes and free for current patients
 		
 To Do:
 
