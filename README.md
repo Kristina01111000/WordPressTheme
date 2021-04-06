@@ -66,6 +66,7 @@ To Do:
 	-> get several more images for the front page
 		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
+		- automatically done
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
