@@ -34,6 +34,8 @@ Currently working on Dr. W's site
 	-> learndassh grid addon allows sorting courses by tags
 		-does it work for individual lessons?
 		- start a support request?
+			- https://www.learndash.com/support/docs/add-ons/course-grid/
+			- https://www.learndash.com/support/docs/core/courses/course-settings/#course-taxonomies-categories-tags
 		
 To Do:
 
