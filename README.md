@@ -67,12 +67,13 @@ To Do:
 		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
 		- automatically done
+		- set up a page that all the tags are on?
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
 	-> check link goes login page, not register page
 	-> decide what the main page when they first login is going to be
-		- user profile?
+		- user profile currently
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 	-> work on loading speed of front page, 
