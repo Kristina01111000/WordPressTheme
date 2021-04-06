@@ -71,6 +71,7 @@ To Do:
 	-> setup backlog of weekily topics
 	-> check link goes login page, not register page
 	-> decide what the main page when they first login is going to be
+		- user profile?
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 	-> work on loading speed of front page, 
