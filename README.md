@@ -33,6 +33,7 @@ Currently working on Dr. W's site
 	-> he uses inmotion web hosting
 	-> learndassh grid addon allows sorting courses by tags
 		-does it work for individual lessons?
+		- start a support request?
 		
 To Do:
 
