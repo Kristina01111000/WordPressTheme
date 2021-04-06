@@ -31,6 +31,7 @@ Currently working on Dr. W's site
 		-> need to buy new key every year probably
 	-> figure out how to do payment for classes and free for current patients
 	-> he uses inmotion web hosting
+	-> learndassh grid addon allows sorting lessons/courses by tags
 		
 To Do:
 
