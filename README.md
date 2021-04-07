@@ -43,10 +43,7 @@ To Do:
 		-> or the fonts that are included in gecko
 		-> does he want a different font?
 	-> figure out tag system -> for weekly topics, can have multiple tags?
-	-> finalize color scheme -> added yellow
-		- need to do this this week, stopping the website from being completed
-		-  sent 5 different color schemes 
-		-  figure out which he likes best/hates
+	-> finalize color scheme -> its holding up the site
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
 		-> add them to the course
