@@ -54,7 +54,8 @@ To Do:
 	-> cannot get the columns to match up on top on front page :(
 		-> check how to fix this online
 	-> get images/ video from dr w 
-		-> plus confirmation on the images i picked
+		-> images in email document
+		-> is he going to make videos?
 	-> get several more images for the front page
 		-> waiting on dr w for confirmations and new images
 	-> make the groups 
