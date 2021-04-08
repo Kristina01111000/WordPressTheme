@@ -55,16 +55,11 @@ To Do:
 		-> check how to fix this online
 	-> get images/ video from dr w 
 		-> plus confirmation on the images i picked
-	-> fix layout of icon and login button on front page
-		-> how? can't do it w/o messing up the icon centering
-		-> could add more white to left side of icon?
-		-> hard to scale with screen though
-		-> make columns?
 	-> get several more images for the front page
 		-> waiting on dr w for confirmations and new images
 	-> set up the tag pages
 		- automatically done
-		- set up a page that all the tags are on?
+		- set up a page that has a list of all the tags?
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
