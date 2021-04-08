@@ -57,9 +57,6 @@ To Do:
 		-> plus confirmation on the images i picked
 	-> get several more images for the front page
 		-> waiting on dr w for confirmations and new images
-	-> set up the tag pages
-		- automatically done
-		- set up a page that has a list of all the tags?
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
