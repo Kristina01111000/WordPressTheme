@@ -47,7 +47,7 @@ To Do:
 		-> images in email document
 		-> is he going to make videos?
 	-> get several more images for the front page
-		-> waiting on dr w for confirmations and new images
+		-> new images in email
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
