@@ -36,6 +36,7 @@ To Do:
 
 	-> figure out tag system -> for weekly topics can only have one tag
 	-> finalize color scheme -> dark green, light green, yellow header, white
+		-finish all the little spots
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
 		-> add them to the course
