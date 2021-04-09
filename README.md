@@ -67,8 +67,7 @@ To Do:
 	- change recent activity to what's new?
 	- set up read more for tag pages
 	- change lesson to mini lesson?
-	- change login link to recent activity
-
+	
 To do: 
 
 	- on index page, numbers dont lie section css not working
