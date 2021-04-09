@@ -58,7 +58,8 @@ To Do:
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 	-> work on loading speed of front page, 
-		-> img problem or server speed problem
+		-> img problem or server speed problem?
+		- google points to server problem
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere
 	- put monthly topics into headings in course
