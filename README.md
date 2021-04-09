@@ -34,7 +34,7 @@ Currently working on Dr. W's site
 		
 To Do:
 
-	-> figure out tag system -> for weekly topics, can have multiple tags?
+	-> figure out tag system -> for weekly topics can only have one tag
 	-> finalize color scheme -> dark green, light green, yellow header, white
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
