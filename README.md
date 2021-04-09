@@ -18,17 +18,12 @@ Currently working on Dr. W's site
 		- also way to make it free for current patients
 		-  use a passcode?
 	->> saving css changes in extras.css
-	->> with peepso: turning on comments literally a radio box on page
-		-> polls appear to only be possible on activity stream, user profile, and in groups
-		-> see if it can be stuck onto a page somewhere
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
 	-> in peepso logo height has to be in px, not %
 	-> figure out emails using peepso -> need the peepso plugin
 		- current plan is to use learndash email section
-	-> peepso needs to be updated every week
-		-> need to buy new key every year probably
 	-> figure out how to do payment for classes and free for current patients
 	-> he uses inmotion web hosting
 	-> learndassh grid addon allows sorting courses by tags
@@ -39,9 +34,6 @@ Currently working on Dr. W's site
 		
 To Do:
 
-	-> add the google fonts from email
-		-> or the fonts that are included in gecko
-		-> does he want a different font?
 	-> figure out tag system -> for weekly topics, can have multiple tags?
 	-> finalize color scheme -> dark green, light green, yellow header, white
 	-> make forum links in class module
