@@ -62,6 +62,12 @@ To Do:
 		-> img problem or server speed problem
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere
+	- put monthly topics into headings in course
+	- change default user image
+	- change recent activity to what's new?
+	- set up read more for tag pages
+	- change lesson to mini lesson?
+	- change login link to recent activity
 
 To do: 
 
