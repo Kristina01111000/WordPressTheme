@@ -39,9 +39,7 @@ To Do:
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
 		-> add them to the course
-		-> maybe put the weekly topics back into posts, 
-			- not course, tags easier, can just sell one course?
-			- messes  with current email option
+		-> make headings for each lesson in course be the names of the tags
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top on front page :(
 		-> check how to fix this online
