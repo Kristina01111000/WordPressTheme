@@ -67,6 +67,8 @@ To Do:
 	- change recent activity to what's new?
 	- set up read more for tag pages
 	- change lesson to mini lesson?
+	- check on accessibilty -> does gecko automarically do it?
+		- add img descriptions
 	
 To do: 
 
