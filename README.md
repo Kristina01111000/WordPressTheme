@@ -69,6 +69,7 @@ To Do:
 	- change lesson to mini lesson?
 	- check on accessibilty -> does gecko automarically do it?
 		- add img descriptions
+	- remove "Tag: " from tag page? if possible
 	
 To do: 
 
