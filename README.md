@@ -50,7 +50,7 @@ To Do:
 	-> get several more images for the front page
 		-> added check on : 
 			- Practical benefits img
-			- 
+			- 4E Psy -> zodiac wheels won't load
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
