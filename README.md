@@ -48,7 +48,9 @@ To Do:
 		-> images in email document
 		-> is he going to make videos?
 	-> get several more images for the front page
-		-> new images in email
+		-> added check on : 
+			- Practical benefits img
+			- 
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
