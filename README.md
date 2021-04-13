@@ -52,7 +52,10 @@ To Do:
 			- Practical benefits img
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
 			- Mission/vision picture
-			- holistic nut page, put 2, pick one
+			- holistic nut page, put 2, pick one?
+			- got to holnut, figure out what the long list of pictures @ the end is for
+
+
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
