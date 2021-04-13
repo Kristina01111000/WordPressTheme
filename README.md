@@ -51,7 +51,7 @@ To Do:
 		-> added check on : 
 			- Practical benefits img
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
-			-  need to do community and down in email
+			-  
 	-> make the groups 
 		-> one for each of the header tabs
 	-> setup backlog of weekily topics
