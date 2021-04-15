@@ -81,6 +81,7 @@ To Do:
 	- check on accessibilty -> does gecko automarically do it?
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
+	- check on where polls can be put
 	
 To do: 
 
