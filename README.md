@@ -89,7 +89,7 @@ To Do:
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
-	
+	- change monthly topics to holistic monthly topics
 To do: 
 
 	- on index page, numbers dont lie section css not working
