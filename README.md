@@ -38,7 +38,7 @@ To Do:
 	-> figure out tag system -> for weekly topics can only have one tag
 	-> finalize color scheme -> dark green, light green, yellow header, white
 		-finish all the little spots
-		- check the yellow, it lloks really bright on other computers
+		- check the yellow, it looks really bright on other computers
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
 		-> add them to the course
@@ -56,6 +56,7 @@ To Do:
 			- Mission/vision picture
 			- holistic nut page, put 2, pick one?
 			- got to holnut, figure out what the long list of pictures @ the end is for
+			- add images every 4-5 paragraphs
 
 
 	-> make the groups 
