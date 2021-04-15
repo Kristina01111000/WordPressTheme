@@ -24,6 +24,7 @@ Currently working on Dr. W's site
 	-> in peepso logo height has to be in px, not %
 	-> figure out emails using peepso -> need the peepso plugin
 		- current plan is to use learndash email section
+		- will get the peepso plugin w/ ultimate bundle
 	-> figure out how to do payment for classes and free for current patients
 	-> he uses inmotion web hosting
 	-> learndassh grid addon allows sorting courses by tags
