@@ -83,6 +83,9 @@ To Do:
 	- remove "Tag: " from tag page? if possible
 	- check on where polls can be put
 	- change spacing on header pages, add small tab
+	- put in first module
+	 	- 5 question quiz for it
+	
 	
 To do: 
 
