@@ -71,7 +71,8 @@ To Do:
 		-> img problem or server speed problem?
 		- google points to server problem
 	-> get word document from dr w
-		-> needed to fill in all missing text everywhere
+		-> needed to fill in all missing text everywhere 
+	- courses are going to be powerpoints w/ voice over
 	- put monthly topics into headings in course
 	- change default user image
 	- change recent activity to what's new?
