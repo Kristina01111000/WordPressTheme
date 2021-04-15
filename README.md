@@ -88,6 +88,7 @@ To Do:
 	 	- 5 question quiz for it
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
+	- add section to front page about the course
 	
 To do: 
 
