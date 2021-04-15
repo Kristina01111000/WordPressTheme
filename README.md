@@ -82,6 +82,7 @@ To Do:
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
 	- check on where polls can be put
+	- change spacing on header pages, add small tab
 	
 To do: 
 
