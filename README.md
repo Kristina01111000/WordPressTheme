@@ -87,6 +87,7 @@ To Do:
 	- put in first module
 	 	- 5 question quiz for it
 	- change header pages titles to dark green	
+	- change header right pages to link to courses
 	
 To do: 
 
