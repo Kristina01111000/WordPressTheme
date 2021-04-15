@@ -82,6 +82,7 @@ To Do:
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
 	- check on where polls can be put
+	 	- disable polls for users other than admins
 	- change spacing on header pages, add small tab
 	- put in first module
 	 	- 5 question quiz for it
