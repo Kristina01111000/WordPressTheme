@@ -80,13 +80,11 @@ To Do:
 	- remove "Tag: " from tag page? if possible
 	- check on where polls can be put
 	 	- disable polls for users other than admins
-	- change spacing on header pages, add small tab
 	- put in first module
 	 	- 5 question quiz for it
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
-	- change monthly topics to holistic monthly topics
 To do: 
 
 	- on index page, numbers dont lie section css not working
