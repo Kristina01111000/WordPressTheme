@@ -38,15 +38,9 @@ To Do:
 	-> finalize color scheme -> dark green, light green, yellow header, white
 		-finish all the little spots
 	-> make forum links in class module
-	-> get monthly topic articles from dr w
-		-> add them to the course
-		-> make headings for each lesson in course be the names of the tags
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top on front page :(
 		-> check how to fix this online
-	-> get images/ video from dr w 
-		-> images in email document
-		-> is he going to make videos?
 	-> get several more images for the front page
 		-> check on these pictures for vibes: 
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
@@ -55,8 +49,6 @@ To Do:
 			- add images every 4-5 paragraphs
 	-> make the groups 
 		-> one for each of the header tabs
-	-> setup backlog of weekily topics
-	-> check link goes login page, not register page
 	-> decide what the main page when they first login is going to be
 		- user profile currently
 	-> read through entire website for typos
@@ -64,9 +56,6 @@ To Do:
 	-> work on loading speed of front page, 
 		-> img problem or server speed problem?
 		- google points to server problem
-	-> get word document from dr w
-		-> needed to fill in all missing text everywhere 
-	- courses are going to be powerpoints w/ voice over
 	- put monthly topics into headings in course
 	- change default user image
 	- change recent activity to what's new?
@@ -83,6 +72,19 @@ To Do:
 	- change header right pages to link to courses
 	- add section to front page about the course
 	- add tab to header pages paragraphs
+
+Need from Dr. W:
+
+	-> get monthly topic articles from dr w
+		-> add them to the course
+		-> make headings for each lesson in course be the names of the tags
+	-> get images/ video from dr w 
+		-> images in email document
+		-> is he going to make videos?
+	-> get word document from dr w
+		-> needed to fill in all missing text everywhere 	
+	- courses are going to be powerpoints w/ voice over	
+
 To do: 
 
 	- on index page, numbers dont lie section css not working
