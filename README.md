@@ -68,7 +68,6 @@ To Do:
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
-	- add tab to header pages paragraphs
 
 Need from Dr. W:
 
