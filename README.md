@@ -51,9 +51,6 @@ To Do:
 		-> one for each of the header tabs
 	-> read through entire website for typos
 		-> lots of little ones everywhere
-	-> work on loading speed of front page, 
-		-> img problem or server speed problem?
-		- google points to server problem
 	- change default user image
 	- change recent activity to what's new?
 	- set up read more for tag pages
@@ -79,6 +76,9 @@ Need from Dr. W:
 	- polls are available on group posts, community and profile streams (not anywhere else)
 	- put in first module
 	 	- 5 question quiz for it
+	 -> work on loading speed of front page, 
+		-> img problem or server speed problem?
+		- google points to server problem
 
 To do: 
 
