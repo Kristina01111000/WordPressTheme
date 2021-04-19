@@ -60,8 +60,6 @@ To Do:
 	- check on accessibilty 
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
-	- put in first module
-	 	- 5 question quiz for it
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
@@ -79,6 +77,8 @@ Need from Dr. W:
 	- courses are going to be powerpoints w/ voice over	
 	- polls need the user limits plugin to stop users from making them (higher bundle)
 	- polls are available on group posts, community and profile streams (not anywhere else)
+	- put in first module
+	 	- 5 question quiz for it
 
 To do: 
 
