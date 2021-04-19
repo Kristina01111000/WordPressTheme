@@ -35,11 +35,8 @@ Currently working on Dr. W's site
 		
 To Do:
 
-	-> figure out tag system -> for weekly topics can only have one tag
 	-> finalize color scheme -> dark green, light green, yellow header, white
 		-finish all the little spots
-		- check the yellow, it looks really bright on other computers
-		- made header yellow lighter, check on other computers
 	-> make forum links in class module
 	-> get monthly topic articles from dr w
 		-> add them to the course
