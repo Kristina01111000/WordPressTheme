@@ -57,12 +57,9 @@ To Do:
 	- change default user image
 	- change recent activity to what's new?
 	- set up read more for tag pages
-	- change lesson to mini lesson?
-	- check on accessibilty -> does gecko automarically do it?
+	- check on accessibilty 
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
-	- check on where polls can be put
-	 	- disable polls for users other than admins
 	- put in first module
 	 	- 5 question quiz for it
 	- change header pages titles to dark green	
@@ -81,6 +78,7 @@ Need from Dr. W:
 		-> needed to fill in all missing text everywhere 	
 	- courses are going to be powerpoints w/ voice over	
 	- polls need the user limits plugin to stop users from making them (higher bundle)
+	- polls are available on group posts, community and profile streams (not anywhere else)
 
 To do: 
 
