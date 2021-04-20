@@ -49,7 +49,6 @@ To Do:
 		-> lots of little ones everywhere
 	- change default user image
 	- change recent activity to what's new?
-	- set up read more for tag pages
 	- check on accessibilty 
 		- add img descriptions
 	- remove "Tag: " from tag page? if possible
