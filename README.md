@@ -48,6 +48,8 @@ To Do:
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 	- change default user image
+		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
+		- explains how to do it, need to figure out the default images we want
 	- change recent activity to what's new?
 	- check on accessibilty 
 		- add img descriptions
