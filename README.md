@@ -57,7 +57,6 @@ To Do:
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
-	- make mod 1 quiz
 
 Need from Dr. W:
 
