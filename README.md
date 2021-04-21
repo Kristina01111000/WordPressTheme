@@ -53,7 +53,6 @@ To Do:
 	- change recent activity to what's new?
 	- check on accessibilty 
 		- add img descriptions
-	- remove "Tag: " from tag page? if possible
 	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
