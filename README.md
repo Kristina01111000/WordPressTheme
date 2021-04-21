@@ -50,10 +50,8 @@ To Do:
 	- change default user image
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
-	- change recent activity to what's new?
 	- check on accessibilty 
 		- add img descriptions
-	- change header pages titles to dark green	
 	- change header right pages to link to courses
 	- add section to front page about the course
 
