@@ -40,9 +40,8 @@ To Do:
 	-> get several more images for the front page
 		-> check on these pictures for vibes: 
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
-			- holistic nut page, put 2, pick one?
-			- got to holnut, figure out what the long list of pictures @ the end is for
-			- add images every 4-5 paragraphs
+	- add 2 pictures to each of the header pages
+		- got to holnut, figure out what the long list of pictures @ the end is for
 	-> make the groups 
 		-> one for each of the header tabs
 	-> read through entire website for typos
