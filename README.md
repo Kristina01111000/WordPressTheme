@@ -55,6 +55,7 @@ To Do:
 	- change header right pages to link to courses
 	- add section to front page about the course
 	- upgrade to ultimate peepso
+		- edit settings so users can't make polls 
 	- add more pictures to front page
 
 Need from Dr. W:
