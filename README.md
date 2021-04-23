@@ -33,6 +33,7 @@ To Do:
 
 	-> finalize color scheme -> dark green, light green, yellow header, white
 		-finish all the little spots
+		- finalize the exact shade of yellow
 	-> make forum links in class module
 	-> finish off 2 ssl settings
 	-> cannot get the columns to match up on top on front page :(
