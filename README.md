@@ -70,8 +70,6 @@ Need from Dr. W:
 	- courses are going to be powerpoints w/ voice over	
 	- polls need the user limits plugin to stop users from making them (higher bundle)
 	- polls are available on group posts, community and profile streams (not anywhere else)
-	- put in first module
-	 	- 5 question quiz for it
 	 -> work on loading speed of front page, 
 		-> img problem or server speed problem?
 		- google points to server problem
