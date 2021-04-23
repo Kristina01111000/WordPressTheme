@@ -26,6 +26,7 @@ Currently working on Dr. W's site
 		- current plan is to use learndash email section
 		- will get the peepso plugin w/ ultimate bundle
 	-> figure out how to do payment for classes and free for current patients
+		- paid membership pro, code word for free?
 	-> he uses inmotion web hosting
 	
 		
