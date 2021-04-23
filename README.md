@@ -54,6 +54,7 @@ To Do:
 		- add img descriptions
 	- change header right pages to link to courses
 	- add section to front page about the course
+	- upgrade to ultimate peepso
 
 Need from Dr. W:
 
