@@ -57,6 +57,7 @@ To Do:
 	- upgrade to ultimate peepso
 		- edit settings so users can't make polls 
 	- add more pictures to front page
+	- rename/check names of the peepso default pages 
 
 Need from Dr. W:
 
