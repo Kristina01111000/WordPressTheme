@@ -56,6 +56,10 @@ To Do:
 	- add section to front page about the course
 	- upgrade to ultimate peepso
 		- edit settings so users can't make polls 
+		- woocommerce
+		- paidmembership pro
+		- word filter
+		- learndash integratation
 	- add more pictures to front page
 	- rename/check names of the peepso default pages 
 
