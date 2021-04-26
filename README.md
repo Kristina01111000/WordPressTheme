@@ -69,6 +69,7 @@ Need from Dr. W:
 	-> get monthly topic articles from dr w
 		-> add them to the course
 		-> make headings for each lesson in course be the names of the tags
+		-> get schedule of topics and add month to title
 	-> get images/ video from dr w 
 		-> images in email document
 		-> is he going to make videos?
