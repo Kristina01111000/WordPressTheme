@@ -32,9 +32,7 @@ Currently working on Dr. W's site
 		
 To Do:
 
-	-> finalize color scheme -> dark green, light green, yellow header, white
-		-finish all the little spots
-		- finalize the exact shade of yellow
+
 	-> make forum links in class module
 	-> finish off 2 ssl settings
 	-> get several more images for the front page
