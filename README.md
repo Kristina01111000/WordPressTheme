@@ -37,8 +37,6 @@ To Do:
 		- finalize the exact shade of yellow
 	-> make forum links in class module
 	-> finish off 2 ssl settings
-	-> cannot get the columns to match up on top on front page :(
-		-> check how to fix this online
 	-> get several more images for the front page
 		-> check on these pictures for vibes: 
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
