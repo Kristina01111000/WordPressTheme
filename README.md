@@ -81,6 +81,7 @@ Need from Dr. W:
 	 -> work on loading speed of front page, 
 		-> img problem or server speed problem?
 		- google points to server problem
+	- score card stuff(added sentence to monthly topics)
 
 To do: 
 
