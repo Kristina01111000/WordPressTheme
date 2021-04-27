@@ -50,7 +50,7 @@ To Do:
 	- change header right pages to link to courses
 	- add section to front page about the course
 	- upgrade to ultimate peepso
-		- paidmembership pro
+		- paidmembership pro -> also makes sure it uses woocommerce, else take woocommerce off
 		- word filter -> figure out list of words to add
 		- learndash integration
 		- email digest plugin
