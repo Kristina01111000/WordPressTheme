@@ -52,7 +52,8 @@ To Do:
 	- upgrade to ultimate peepso
 		- paidmembership pro
 		- word filter -> figure out list of words to add
-		- learndash integratation
+		- learndash integration
+		- email digest plugin
 	- add more pictures to front page
 	- rename/check names of the peepso default pages 
 
