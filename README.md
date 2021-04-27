@@ -50,7 +50,6 @@ To Do:
 	- change header right pages to link to courses
 	- add section to front page about the course
 	- upgrade to ultimate peepso
-		- woocommerce
 		- paidmembership pro
 		- word filter
 		- learndash integratation
