@@ -59,9 +59,7 @@ To Do:
 
 Need from Dr. W:
 
-	-> get monthly topic articles from dr w
-		-> add them to the course
-		-> make headings for each lesson in course be the names of the tags
+	-> get monthly topic order from dr w
 		-> get schedule of topics and add month to title
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere 	
