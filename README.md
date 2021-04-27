@@ -32,8 +32,6 @@ Currently working on Dr. W's site
 		
 To Do:
 
-
-	-> make forum links in class module
 	-> finish off 2 ssl settings
 	-> get several more images for the front page
 		-> check on these pictures for vibes: 
