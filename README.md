@@ -47,15 +47,13 @@ To Do:
 		- explains how to do it, need to figure out the default images we want
 	- check on accessibilty 
 		- add img descriptions
-	- change header right pages to link to courses
 	- add section to front page about the course
-	- upgrade to ultimate peepso
+	- add these plugins:
 		- paidmembership pro -> also makes sure it uses woocommerce, else take woocommerce off
 		- word filter -> figure out list of words to add
 		- learndash integration
 		- email digest plugin
 	- add more pictures to front page
-	- rename/check names of the peepso default pages 
 
 Need from Dr. W:
 
