@@ -51,7 +51,7 @@ To Do:
 	- add section to front page about the course
 	- upgrade to ultimate peepso
 		- paidmembership pro
-		- word filter
+		- word filter -> figure out list of words to add
 		- learndash integratation
 	- add more pictures to front page
 	- rename/check names of the peepso default pages 
