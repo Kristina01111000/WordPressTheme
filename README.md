@@ -52,7 +52,7 @@ To Do:
 		- paidmembership pro -> also makes sure it uses woocommerce, else take woocommerce off
 		- word filter -> figure out list of words to add
 		- learndash integration
-		- email digest plugin
+		- email digest plugin -> figure out how it works, decide if learndash is better
 	- add more pictures to front page
 
 Need from Dr. W:
