@@ -62,8 +62,6 @@ Need from Dr. W:
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere 	
 	- courses are going to be powerpoints w/ voice over	
-	- polls need the user limits plugin to stop users from making them (higher bundle)
-	- polls are available on group posts, community and profile streams (not anywhere else)
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 
 To do: 
