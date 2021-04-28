@@ -16,9 +16,10 @@ plugins im using on wp:
 
 Currently working on Dr. W's site 
 
-	->>>>> need to figure out sign in with peepso & learndash course
+	->>>>> need to figure out payment works
 		- also way to make it free for current patients
 		-  use a passcode?
+		-  do we need both woocommerce and paid memberships pro + integrations w/ peepso?
 	->> saving css changes in extras.css
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
