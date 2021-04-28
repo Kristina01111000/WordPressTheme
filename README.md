@@ -44,8 +44,6 @@ To Do:
 	- change default user image
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
-	- check on accessibilty 
-		- add img descriptions
 	- add section to front page about the course
 	- add these plugins:
 		- paidmembership pro -> also makes sure it uses woocommerce, else take woocommerce off
