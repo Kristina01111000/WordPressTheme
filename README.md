@@ -37,7 +37,8 @@ To Do:
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
 			- add new picture in words from dr w above "together we're goint to ..."
 	- add 2 pictures to each of the header pages
-		- got to holnut, figure out what the long list of pictures @ the end is for
+		- figure out what the long list of pictures @ the end is for
+		- add to three other pages
 	-> make the groups 
 		-> one for each of the header tabs
 	-> read through entire website for typos
