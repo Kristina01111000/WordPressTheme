@@ -24,8 +24,6 @@ Currently working on Dr. W's site
 		-> need to put separate pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
 	-> in peepso logo height has to be in px, not %
-	-> figure out how to do payment for classes and free for current patients
-		- paid membership pro, code word for free?
 	-> he uses inmotion web hosting
 	
 		
