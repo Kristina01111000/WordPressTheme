@@ -35,6 +35,7 @@ To Do:
 	-> get several more images for the front page
 		-> check on these pictures for vibes: 
 			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
+			- add new picture in words from dr w above "together we're goint to ..."
 	- add 2 pictures to each of the header pages
 		- got to holnut, figure out what the long list of pictures @ the end is for
 	-> make the groups 
