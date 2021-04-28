@@ -20,6 +20,7 @@ Currently working on Dr. W's site
 		- also way to make it free for current patients
 		-  use a passcode?
 		-  do we need both woocommerce and paid memberships pro + integrations w/ peepso?
+			- they do not need each other, pick the one that suits needs better  
 	->> saving css changes in extras.css
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate pictures into additional css
