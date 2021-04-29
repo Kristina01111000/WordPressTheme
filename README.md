@@ -30,10 +30,6 @@ Currently working on Dr. W's site
 To Do:
 
 	-> finish off 2 ssl settings
-	-> get several more images for the front page
-		-> check on these pictures for vibes: 
-			- 4E Psy -> zodiac wheels won't load, .eps not .jpeg or .png won't load onto wp
-			- add new picture in words from dr w above "together we're goint to ..."
 	- add 2 pictures to each of the header pages
 		- figure out what the long list of pictures @ the end is for
 		- add to three other pages
