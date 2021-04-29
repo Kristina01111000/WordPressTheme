@@ -46,7 +46,6 @@ To Do:
 		- word filter -> figure out list of words to add
 		- learndash integration - check if anything needs to change to use it
 		- email digest plugin -> figure out how it works, decide if learndash is better
-	- add more pictures to front page
 	- add images to class pages?
 
 Need from Dr. W:
