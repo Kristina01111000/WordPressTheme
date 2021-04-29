@@ -9,10 +9,9 @@ blank wp theme at underscores.me
 
 plugins im using on wp:
 	- peepso
-	- learndash -> has inbuilt paypal
-	- woocommerce
+	- learndash 
 	- paid memberships pro
-
+	- woocommerce -> removed it
 
 Currently working on Dr. W's site 
 
