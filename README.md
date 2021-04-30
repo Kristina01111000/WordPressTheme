@@ -55,7 +55,6 @@ Need from Dr. W:
 		-> get schedule of topics and add month to title
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere 	
-	- courses are going to be powerpoints w/ voice over	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 
 To do: 
