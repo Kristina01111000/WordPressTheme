@@ -30,7 +30,6 @@ Currently working on Dr. W's site
 To Do:
 
 	-> update resume with this project
-	-> finish off 2 ssl settings
 	- add 2 pictures to each of the header pages
 		- figure out what the long list of pictures @ the end is for
 		- add to three other pages
