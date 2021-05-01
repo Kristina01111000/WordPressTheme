@@ -56,6 +56,7 @@ Need from Dr. W:
 	-> get word document from dr w
 		-> needed to fill in all missing text everywhere 	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
+		- just an excel file i think? google doc?
 
 To do: 
 
