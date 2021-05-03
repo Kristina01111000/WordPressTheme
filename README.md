@@ -42,6 +42,9 @@ To Do:
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
 	- add section to front page about the course
+		- copy from somewhere else?
+		- add bullets of titles
+		- add additional image
 	- add these plugins:
 		- paidmembership pro -> also makes sure it uses woocommerce, else take woocommerce off
 		- word filter -> figure out list of words to add
