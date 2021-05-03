@@ -44,6 +44,7 @@ To Do:
 		- email digest plugin -> figure out how it works, decide if learndash is better
 	- add images to class pages?
 	- get wp to automatically update (on server)
+	- test email plugin
 
 Need from Dr. W:
 
