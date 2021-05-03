@@ -16,8 +16,9 @@ Currently working on Dr. W's site
 		-  using paid membershippro 
 	->> saving css changes in extras.css
 	-> with gecko theme in editor main background photo is set in theme -> body settings
-		-> need to put separate pictures into additional css
+		-> need to put separate background pictures into additional css
 		-> figure out how to make pictures scroll -> change to scroll
+			- normal pictures can just be put in using image in page builder
 	-> in peepso logo height has to be in px, not %
 	-> he uses inmotion web hosting
 	
