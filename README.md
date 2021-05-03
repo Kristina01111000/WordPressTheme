@@ -7,7 +7,7 @@ plugins im using on dr ws site:
 	- peepso
 	- learndash 
 	- paid memberships pro
-	- woocommerce -> removed it
+	- woocommerce -> removed it(not necessary)
 	- real simple ssl
 	- button one
 
@@ -54,8 +54,6 @@ To Do:
 		- learndash integration - check if anything needs to change to use it
 		- email digest plugin -> figure out how it works, decide if learndash is better
 			- need to test it, the 1 day email did not send
-	- add images to class pages?
-		- let him do it probably
 	- get wp to automatically update (on server)
 	- test email plugin
 
