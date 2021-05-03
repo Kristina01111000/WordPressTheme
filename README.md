@@ -3,6 +3,7 @@
 
 
 plugins im using on wp:
+
 	- peepso
 	- learndash 
 	- paid memberships pro
@@ -50,6 +51,7 @@ To Do:
 		- word filter -> figure out list of words to add
 		- learndash integration - check if anything needs to change to use it
 		- email digest plugin -> figure out how it works, decide if learndash is better
+			- need to test it, the 1 day email did not send
 	- add images to class pages?
 		- let him do it probably
 	- get wp to automatically update (on server)
