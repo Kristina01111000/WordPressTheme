@@ -61,6 +61,7 @@ Need from Dr. W:
 
 To do: 
 
+	- learn to use elementor, appears to let you do tons w/o active coding
 	- on index page, numbers dont lie section css not working
 		- circles not showing and background not white, weird picture not up also
 	- having problem with putting functions into function.php
