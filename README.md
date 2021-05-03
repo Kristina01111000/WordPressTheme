@@ -30,6 +30,9 @@ To Do:
 	- add 2 pictures to each of the header pages
 		- figure out what the long list of pictures @ the end is for
 		- add to three other pages
+			- outdoor
+			- body
+			- growth
 	-> make the groups 
 		-> one for each of the header tabs
 	-> read through entire website for typos
