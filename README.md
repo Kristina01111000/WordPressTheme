@@ -1,11 +1,6 @@
 # WordPressTheme
 
-from the udemy class
 
-using filezilla as the server for wordpress, class uses mamp
-
-blank wp theme at underscores.me
-	 => much easier than writing it all out, can be edited 
 
 plugins im using on wp:
 	- peepso
@@ -58,6 +53,19 @@ Need from Dr. W:
 		-> needed to fill in all missing text everywhere 	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 		- just an excel file i think? google doc?
+
+
+
+
+
+from the udemy class
+
+using filezilla as the server for wordpress, class uses mamp
+
+blank wp theme at underscores.me
+	 => much easier than writing it all out, can be edited 
+	 
+is it worth making a theme when elementor exists
 
 To do: 
 
