@@ -37,6 +37,7 @@ To Do:
 		-> one for each of the header tabs
 	-> read through entire website for typos
 		-> lots of little ones everywhere
+		-> do one page at a time
 	- change default user image
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
