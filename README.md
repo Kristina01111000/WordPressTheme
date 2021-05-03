@@ -2,12 +2,14 @@
 
 
 
-plugins im using on wp:
+plugins im using on dr ws site:
 
 	- peepso
 	- learndash 
 	- paid memberships pro
 	- woocommerce -> removed it
+	- real simple ssl
+	- button one
 
 Currently working on Dr. W's site 
 
