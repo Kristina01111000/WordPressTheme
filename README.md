@@ -36,8 +36,6 @@ To Do:
 			- outdoor
 			- body
 			- growth
-	-> make the groups 
-		-> one for each of the header tabs
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 		-> do one page at a time
