@@ -4,5 +4,6 @@ list of shortcuts that are useful in wp
 
 -> shift-alt-z to delete a block
 
--> new update allows adding a seperator as a block
+-> new update allows adding a seperator as a block looks like this but solid, ------------ can adjust length and width
+
 -> Spacer (in block list) also makes space easy to add -> white space between blocks
