@@ -33,7 +33,6 @@ To Do:
 	- add 2 pictures to each of the header pages
 		- figure out what the long list of pictures @ the end is for --> this probably?
 		- add to three other pages
-			- outdoor
 			- body
 			- growth
 	-> read through entire website for typos
