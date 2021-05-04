@@ -34,7 +34,6 @@ To Do:
 		- figure out what the long list of pictures @ the end is for --> this probably?
 		- add to three other pages
 			- body
-			- growth
 	-> read through entire website for typos
 		-> lots of little ones everywhere
 		-> do one page at a time
