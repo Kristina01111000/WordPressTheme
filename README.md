@@ -47,7 +47,7 @@ To Do:
 		- email digest plugin -> figure out how it works, decide if learndash is better
 			- need to test it, the 1 day email did not send
 	- get wp to automatically update (on server)
-	- test email plugin
+	- test email plugin -> set it to go out @ 4 today, 
 
 Need from Dr. W:
 
