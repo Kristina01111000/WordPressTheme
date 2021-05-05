@@ -42,6 +42,7 @@ To Do:
 		- add additional image
 	- get wp to automatically update (on server)
 	- test email plugin -> set it to go out @ 4 today, 
+	- check on the peepso plugin video malware scan problem
 
 Need from Dr. W:
 
