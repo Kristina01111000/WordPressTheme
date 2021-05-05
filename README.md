@@ -41,6 +41,7 @@ To Do:
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
 	- test email plugin -> set it to go out @ 4 today, 
+		- did not go out, need to check whats up
 	- check on the peepso plugin video malware scan problem
 
 Need from Dr. W:
