@@ -39,7 +39,6 @@ To Do:
 	- change default user image
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
-	- get wp to automatically update (on server)
 	- test email plugin -> set it to go out @ 4 today, 
 	- check on the peepso plugin video malware scan problem
 
