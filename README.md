@@ -46,6 +46,7 @@ To Do:
 		- so far i deleted the plugin
 		- see if he wants users to be able to upload videos
 		- try reuploading it
+	- figure out where in peepso the button to stop non members from viewing the website is
 
 Need from Dr. W:
 
