@@ -5,6 +5,7 @@
 plugins im using on dr ws site:
 
 	- peepso
+		- removed wideo plugin (it had malware in it) 
 	- learndash 
 	- paid memberships pro
 	- woocommerce -> removed it(not necessary)
