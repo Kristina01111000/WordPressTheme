@@ -43,6 +43,9 @@ To Do:
 	- test email plugin -> set it to go out @ 4 today, 
 		- did not go out, need to check whats up
 	- check on the peepso plugin video malware scan problem
+		- so far i deleted the plugin
+		- see if he wants users to be able to upload videos
+		- try reuploading it
 
 Need from Dr. W:
 
