@@ -16,10 +16,7 @@ plugins im using on dr ws site:
 
 Currently working on Dr. W's site 
 
-	->>>>> need to figure out payment works
-		- also way to make it free for current patients
-		-  use a passcode?
-		-  using paid membershippro 
+
 	->> saving css changes in extras.css
 	-> with gecko theme in editor main background photo is set in theme -> body settings
 		-> need to put separate background pictures into additional css
@@ -32,6 +29,9 @@ Currently working on Dr. W's site
 		
 To Do:
 
+	->>>>> using paid membershippro 
+		- set up 2 groups (patients + paid)
+		- getting it to work
 	-> update resume with this project
 	-> read through entire website for typos
 		-> lots of little ones everywhere
