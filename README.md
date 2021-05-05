@@ -5,7 +5,7 @@
 plugins im using on dr ws site:
 
 	- peepso
-		- removed wideo plugin (it had malware in it) 
+		- removed video plugin (it had malware in it) 
 	- learndash 
 	- paid memberships pro
 	- woocommerce -> removed it(not necessary)
@@ -42,10 +42,6 @@ To Do:
 		- explains how to do it, need to figure out the default images we want
 	- test email plugin -> set it to go out @ 4 today, 
 		- did not go out, need to check whats up
-	- check on the peepso plugin video malware scan problem
-		- so far i deleted the plugin
-		- see if he wants users to be able to upload videos
-		- try reuploading it
 	- figure out where in peepso the button to stop non members from viewing the website is
 
 Need from Dr. W:
