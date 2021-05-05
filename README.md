@@ -30,9 +30,7 @@ Currently working on Dr. W's site
 		
 To Do:
 
-	->>>>> using paid membershippro 
-		- set up 2 groups (patients + paid)
-		- getting it to work
+
 	-> update resume with this project
 	-> read through entire website for typos
 		-> lots of little ones everywhere
@@ -46,6 +44,9 @@ To Do:
 
 Need from Dr. W:
 
+	->>>>> using paid membershippro 
+		- set up 2 groups (patients + paid)
+		- need api certificates from him
 	-> get monthly topic order from dr w
 		-> get schedule of topics and add month to title
 	-> get word document from dr w
