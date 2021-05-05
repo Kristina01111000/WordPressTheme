@@ -9,7 +9,10 @@ plugins im using on dr ws site:
 	- paid memberships pro
 	- woocommerce -> removed it(not necessary)
 	- real simple ssl
-	- button one
+	- Forget About Shortcode button 
+	- aksimet
+	- total upkeep
+	- widget context
 
 Currently working on Dr. W's site 
 
