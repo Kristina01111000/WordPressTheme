@@ -48,10 +48,7 @@ To Do:
 Need from Dr. W:
 
 
-	-> get monthly topic order from dr w
-		-> get schedule of topics and add month to title
-	-> get word document from dr w
-		-> needed to fill in all missing text everywhere 	
+	-> additional text	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 		- just an excel file i think? google doc?
 	- confirmation on pictures
