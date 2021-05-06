@@ -54,12 +54,7 @@ Need from Dr. W:
 		-> needed to fill in all missing text everywhere 	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 		- just an excel file i think? google doc?
-	- text for about the course section on front page
-	- discuss the front page picture layout
-
-
-
-
+	- confirmation on pictures
 
 from the udemy class
 
