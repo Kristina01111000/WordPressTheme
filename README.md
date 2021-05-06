@@ -41,12 +41,13 @@ To Do:
 	- test email plugin -> set it to go out @ 4 today, 
 		- did not go out, need to check whats up
 	- figure out where in peepso the button to stop non members from viewing the website is
-
+	->>>>> using paid membershippro 
+		- set up 2 groups (patients + paid) $29
+		- got api certificates from him
+		- set it up
 Need from Dr. W:
 
-	->>>>> using paid membershippro 
-		- set up 2 groups (patients + paid)
-		- need api certificates from him
+
 	-> get monthly topic order from dr w
 		-> get schedule of topics and add month to title
 	-> get word document from dr w
