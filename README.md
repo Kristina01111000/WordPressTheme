@@ -49,7 +49,7 @@ To Do:
 		- header
 		- widgets
 	-  ssl still not working right on his old computer, figure out why
-	-  
+	-  make sure everything automatically updates
 Need from Dr. W:
 
 
