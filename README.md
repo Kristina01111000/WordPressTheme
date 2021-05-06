@@ -26,6 +26,8 @@ Currently working on Dr. W's site
 	-> in peepso logo height has to be in px, not %
 	-> he uses inmotion web hosting
 		- can't get the auto updates to work for some odd reason
+		- some work now, checking them all, 
+			- pmp works
 	
 		
 To Do:
