@@ -45,6 +45,10 @@ To Do:
 		- set up 2 groups (patients + paid) $29
 		- got api certificates from him
 		- set it up
+	- set up tile backgrounds
+		- header
+		- widgets
+	-  
 Need from Dr. W:
 
 
