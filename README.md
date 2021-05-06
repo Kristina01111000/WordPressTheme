@@ -48,6 +48,7 @@ To Do:
 	- set up tile backgrounds
 		- header
 		- widgets
+	-  ssl still not working right on his old computer, figure out why
 	-  
 Need from Dr. W:
 
