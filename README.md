@@ -54,6 +54,9 @@ To Do:
 	-  ssl still not working right on his old computer, figure out why
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
+	- send email to him with what he needs to do to get site running
+
+
 Need from Dr. W:
 
 
