@@ -53,6 +53,7 @@ To Do:
 		- widgets
 	-  ssl still not working right on his old computer, figure out why
 	-  make sure everything automatically updates
+		- so far only peepso is not updating automatically 
 Need from Dr. W:
 
 
