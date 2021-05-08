@@ -49,8 +49,8 @@ To Do:
 		- got api certificates from him
 		- set it up
 	- set up tile backgrounds
-		- header
-		- widgets
+		- header -> yellow
+		- widgets -> green
 	-  ssl still not working right on his old computer, figure out why
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
