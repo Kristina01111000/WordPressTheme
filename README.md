@@ -25,9 +25,7 @@ Currently working on Dr. W's site
 			- normal pictures can just be put in using image in page builder
 	-> in peepso logo height has to be in px, not %
 	-> he uses inmotion web hosting
-		- can't get the auto updates to work for some odd reason
-		- some work now, checking them all, 
-			- pmp works
+		- auto updates work now
 	
 		
 To Do:
