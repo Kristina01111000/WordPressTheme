@@ -46,12 +46,13 @@ To Do:
 		- set up 2 groups (patients + paid) $29
 		- got api certificates from him
 		- set it up
-	-  ssl still not working right on his old computer, figure out why
+
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 	- send email to him with what he needs to do to get site running
 		- header is really grey, need darker yellow
 		- confirmation on all pictures
+		- ssl still not working right on his old computer? ask him to restart + update computer and try it again
 
 
 Need from Dr. W:
