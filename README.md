@@ -49,6 +49,7 @@ To Do:
 	- set up tile backgrounds
 		- header -> yellow
 		- widgets -> green
+		- get tiles
 	-  ssl still not working right on his old computer, figure out why
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
