@@ -47,7 +47,7 @@ To Do:
 		- got api certificates from him
 		- set it up
 	- set up tile backgrounds
-		- header -> yellow
+		- header -> looks really grey
 		- widgets -> green
 	-  ssl still not working right on his old computer, figure out why
 	-  make sure everything automatically updates
