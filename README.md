@@ -52,6 +52,8 @@ To Do:
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 	- send email to him with what he needs to do to get site running
+		- header is really grey, need darker yellow
+		- confirmation on all pictures
 
 
 Need from Dr. W:
