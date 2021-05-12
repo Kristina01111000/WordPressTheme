@@ -50,7 +50,6 @@ To Do:
 	- add sidebar to front page that jumps to sections
 	- add yellow tiles to button background -> need different tiles
 	- change to dr w's patients, not current patients
-	- change price to 29, not 29.99
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
 
