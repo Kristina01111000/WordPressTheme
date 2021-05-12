@@ -32,9 +32,6 @@ To Do:
 
 
 	-> update resume with this project
-	-> read through entire website for typos
-		-> lots of little ones everywhere
-		-> do one page at a time
 	- change default user image
 		-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 		- explains how to do it, need to figure out the default images we want
@@ -46,7 +43,6 @@ To Do:
 		- set up 2 groups (patients + paid) $29
 		- got api certificates from him
 		- set it up
-
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 
