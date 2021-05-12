@@ -49,10 +49,7 @@ To Do:
 
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
-	- send email to him with what he needs to do to get site running
-		- header is really grey, need darker yellow
-		- confirmation on all pictures
-		- ssl still not working right on his old computer? ask him to restart + update computer and try it again
+
 
 
 Need from Dr. W:
@@ -61,7 +58,14 @@ Need from Dr. W:
 	-> additional text	
 	- score card stuff(added sentence to monthly topics, need info on everything else)
 		- just an excel file i think? google doc?
-	- confirmation on pictures
+	- sent email to him with what he needs to do to get site running
+		- header is really grey, need darker yellow
+		- confirmation on all pictures
+		- ssl still not working right on his old computer?
+		- a video for the beginning of the front page
+		- a video for words from dr w section, do you still want one here?
+		- Do you want another picture of yourself for the  words from dr wsection? or just the video
+		- list of what month each monthly topic will be in
 
 from the udemy class
 
