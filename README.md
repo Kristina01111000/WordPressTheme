@@ -49,7 +49,6 @@ To Do:
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
 	- center sidebar text
 	- add sidebar to front page that jumps to sections
-	- add yellow tiles to button background -> need different tiles
 	- change to dr w's patients, not current patients
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
