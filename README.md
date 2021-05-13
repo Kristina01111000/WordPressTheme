@@ -47,12 +47,12 @@ To Do:
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
-	- center sidebar text
 	- add sidebar to front page that jumps to sections
 	- change to dr w's patients, not current patients
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
-
+	-  new email topics:
+		- does he like centered sidebar text
 
 
 Need from Dr. W:
