@@ -26,6 +26,8 @@ Currently working on Dr. W's site
 	-> in peepso logo height has to be in px, not %
 	-> he uses inmotion web hosting
 		- auto updates work now
+			- not peepso or any of the its plugins
+			- or wordpress itself -> probably keep this way 
 	
 		
 To Do:
