@@ -13,7 +13,7 @@ plugins im using on dr ws site:
 	- Forget About Shortcode button 
 	- aksimet
 	- total upkeep
-	- widget context
+	- widget context -> for choosing which pages widgets appear/ not appear on
 
 Currently working on Dr. W's site 
 
