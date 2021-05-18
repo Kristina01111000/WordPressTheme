@@ -41,6 +41,7 @@ To Do:
 	- test email plugin -> set it to go out @ 4 today, 
 		- did not go out, need to check whats up
 		- figure out how to force send one, peepso confirmation email works
+		- error shows up in the site health status page, still not working
 	- figure out where in peepso the button to stop non members from viewing the website is
 	->>>>> using paid membershippro 
 		- set up 2 groups (patients + paid) $29
