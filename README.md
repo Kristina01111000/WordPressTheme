@@ -27,6 +27,7 @@ Currently working on Dr. W's site
 	-> he uses inmotion web hosting
 		- auto updates work now
 			- not peepso or any of the its plugins
+				- need to check it for updates every few days, it updates often
 			- or wordpress itself -> probably keep this way 
 	
 		
