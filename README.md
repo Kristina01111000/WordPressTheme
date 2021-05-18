@@ -54,6 +54,7 @@ To Do:
 	- add sidebar to front page that jumps to sections
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
+	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
 
