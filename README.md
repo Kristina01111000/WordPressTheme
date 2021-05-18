@@ -51,12 +51,12 @@ To Do:
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
-	- add sidebar to front page that jumps to sections
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
 	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
+		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
 
 
 Need from Dr. W:
