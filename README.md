@@ -57,6 +57,7 @@ To Do:
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
+		- did he add pictures to the front page? there are spots for img, but no img
 
 
 Need from Dr. W:
