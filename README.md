@@ -29,7 +29,7 @@ Currently working on Dr. W's site
 			- not peepso or any of the its plugins
 				- need to check it for updates every few days, it updates often
 			- or wordpress itself -> probably keep this way 
-	
+	- non-members cannot get access to courses, can view the headings -> fixed it in learndash settings
 		
 To Do:
 
@@ -54,7 +54,6 @@ To Do:
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
 	- fix the login button/ menu  spacing
-	- currently non-members can get access to courses -> fix it
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
