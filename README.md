@@ -52,7 +52,7 @@ To Do:
 		- so far only peepso is not updating automatically 
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
 	- add cost into to course section
-	
+	- add links to the other monthly topics course pages
 	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
