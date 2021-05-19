@@ -52,14 +52,14 @@ To Do:
 		- so far only peepso is not updating automatically 
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
 	- add cost into to course section
-	- add text to top of registration page talking about the cost
+	
 	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
 		- did he add pictures to the front page? there are spots for img, but no img
 		- does he like the button background?
-
+		- Does he like the added text at top of registration page talking about the cost
 
 Need from Dr. W:
 
