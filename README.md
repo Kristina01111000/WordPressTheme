@@ -51,9 +51,8 @@ To Do:
 	-  make sure everything automatically updates
 		- so far only peepso is not updating automatically 
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
-	- add cost into to front page
+	- add cost into to course section
 	- add text to top of registration page talking about the cost
-		- 29 in buttons
 	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
