@@ -54,6 +54,7 @@ To Do:
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
 	- fix the login button/ menu  spacing
+	- currently non-members can get access to courses -> fix it
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
