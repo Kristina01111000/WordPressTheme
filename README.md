@@ -53,6 +53,7 @@ To Do:
 		- can't get the main peepso to auto update, everything else won't update if it doesn't
 	- add cost into to front page
 	- add text to top of registration page talking about the cost
+		- 29 in buttons
 	- fix the login button/ menu  spacing
 	-  new email topics:
 		- does he like centered sidebar text
