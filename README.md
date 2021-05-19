@@ -54,11 +54,11 @@ To Do:
 	- add cost into to course section
 	- add text to top of registration page talking about the cost
 	- fix the login button/ menu  spacing
-	- make button background the yellow tile
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
 		- did he add pictures to the front page? there are spots for img, but no img
+		- does he like the button background?
 
 
 Need from Dr. W:
