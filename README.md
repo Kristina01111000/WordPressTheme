@@ -54,8 +54,6 @@ To Do:
 	- add cost into to course section
 	- add links to the other monthly topics course pages
 	- fix the login button/ menu  spacing
-	- fix the text at bottom of header pages 
-		- body, nutrition, growth, outdoors
 	-  new email topics:
 		- does he like centered sidebar text
 		- does he like the new frontpage side bar, what about the login button, leave it, remove it?
