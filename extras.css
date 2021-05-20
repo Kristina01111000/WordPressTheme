@@ -55,3 +55,25 @@ h1, heading-size-1 {
   -> figure out how to change text size
   -> bold fixed some of the issue
   -> looks like it can only be done in css*/
+
+//:Current css in customize:
+//menu class
+.menucolor{
+	color:#60E266 !important;
+	font-size: 1.1em;
+}
+// padding of front page
+.page-id-142{
+   padding: 10px 10% 5% 10%;
+    width: 100%;
+}
+// text color of frontpage
+.page-id-142, p{
+	color: #2a4928;
+}
+
+body .wp-block-columns .wp-block-column {
+    /*margin-right: px;
+    margin-left: 0;*/
+	margin: auto;
+}
