@@ -85,3 +85,8 @@ title of all pages
 .gc-header{
 	 background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
 }
+// side bar background + centered text
+.gc-widget--sidebar{
+	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/tilegreen.jpeg);
+	text-align: center;
+}
