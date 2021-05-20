@@ -90,3 +90,7 @@ title of all pages
 	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/tilegreen.jpeg);
 	text-align: center;
 }
+// set button background to tile
+.wp-block-button {
+		background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
+}
