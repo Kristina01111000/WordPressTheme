@@ -11,6 +11,8 @@ blank wp theme at underscores.me
 	 
 is it worth making a theme when elementor exists
 
+look at: make.wordpress.org
+
 To do: 
 
 	- learn to use elementor, appears to let you do tons w/o active coding
