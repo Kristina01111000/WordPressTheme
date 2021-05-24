@@ -1,5 +1,7 @@
 # WordPressTheme
 
+Job search help:
+https://jobs.wordpress.net/
 
 
 from the udemy class
