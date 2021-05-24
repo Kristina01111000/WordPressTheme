@@ -2,7 +2,8 @@
 
 Job search help:
 https://jobs.wordpress.net/
-
+Potentially when stuff goes: costs $99 per year
+https://poststatus.com/club/
 
 from the udemy class
 
