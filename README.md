@@ -6,6 +6,8 @@ https://jobs.wordpress.net/
 	- get linked in up to date
 		- take skill quizzes
 	- update resume
+		- add meetup groups
+		- and add it to linkedin
 
 Potentially when stuff goes: costs $99 per year
 https://poststatus.com/club/
