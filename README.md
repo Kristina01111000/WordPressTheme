@@ -4,7 +4,7 @@ Job search help:
 https://jobs.wordpress.net/
 
 	- get linked in up to date
-		- take skill quizzes
+		- take skill quizzes -> 2 per day b/c annoying 
 	- update resume
 		- add meetup groups
 		- and add it to linkedin
