@@ -2,6 +2,8 @@
 
 Job search help:
 https://jobs.wordpress.net/
+	- get linked in up to date
+	- update resume
 
 Potentially when stuff goes: costs $99 per year
 https://poststatus.com/club/
