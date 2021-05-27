@@ -5,7 +5,8 @@ https://jobs.wordpress.net/
 
 	- get linked in up to date
 		- take skill quizzes -> need to score in the top 30% to get a badge, not get above 70%
-	- update resume
+		- add more contacts
+	- finish updating resume
 		- add meetup groups
 		- and add it to linkedin
 
