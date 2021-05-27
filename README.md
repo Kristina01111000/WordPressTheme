@@ -2,7 +2,9 @@
 
 Job search help:
 https://jobs.wordpress.net/
+
 	- get linked in up to date
+		- take skill quizzes
 	- update resume
 
 Potentially when stuff goes: costs $99 per year
