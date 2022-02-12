@@ -7,6 +7,8 @@ https://jobs.wordpress.net/
 Potentially when stuff goes: costs $99 per year
 https://poststatus.com/club/
 
+
+set up notepad++ to work with git
 from the udemy class
 
 using filezilla as the server for wordpress, class uses mamp
